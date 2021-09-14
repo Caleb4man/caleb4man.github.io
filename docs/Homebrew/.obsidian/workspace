@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "87b2f6817a230dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f0694a7556c09a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "8-Spell Lists/Cleric/Cleric 1st level Spells.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "17df3286918be935",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9-Spells/Level 1/Bane.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c24480b60deee05",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd34e1bddde1be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0abaa30c2f31b57b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f28dff4aa79b39e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04addc853385561d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16bb14274d290892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d4e605af72f3c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9-Spells/Level 1/Bane.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bec30ff645639c6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16d155362a922ed7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9-Spells/Level 1/Bane.md"
+              }
+            }
+          },
+          {
+            "id": "371458ffc12873a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9-Spells/Level 1/Bane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "17df3286918be935",
+  "lastOpenFiles": [
+    "9-Spells/Level 1/Bane.md",
+    "8-Spell Lists/Cleric/Cleric 1st level Spells.md",
+    "Explosive Trap.md",
+    "8-Spell Lists/Cleric/Cleric Cantrips.md",
+    "9-Spells/Cantrips/Guidance.md",
+    "9-Spells/Carreau's Cantrips.md",
+    "Dark Net.md",
+    "Burning Trap.md",
+    "Commune.md",
+    "3-Classes/Cleric/Cleric Spell List.md"
+  ]
+}
