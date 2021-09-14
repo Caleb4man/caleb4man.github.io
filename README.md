@@ -39,4 +39,4 @@ By default, the sections and pages will follow the folder structure within `/doc
 - [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
 - [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
 
-## Note for my purposes
+## Note for my purposes - Main Folder
