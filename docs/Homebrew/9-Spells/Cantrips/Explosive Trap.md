@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Explosive Trap
 *Evocation Cantrip*
 ___

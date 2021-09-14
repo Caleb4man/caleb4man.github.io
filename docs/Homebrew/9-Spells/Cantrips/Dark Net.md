@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Dark Net
 *Necromancy Cantrip*
 ___

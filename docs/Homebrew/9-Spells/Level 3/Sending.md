@@ -11,3 +11,5 @@ You send a short message of twenty-five words or less to a creature with which y
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.
 
 If your message does not arrive, due to the recipient being on another plane of existence, being warded from contact, being in an antimagic field, or not being alive, the spell gives no indication or response. 
+
+Classes: [[Cleric]]

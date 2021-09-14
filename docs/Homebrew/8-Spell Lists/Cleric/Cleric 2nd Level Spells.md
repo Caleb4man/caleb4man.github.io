@@ -1,4 +1,7 @@
-### Cleric 2nd Level Spells
+---
+aliases: ClericSpells2
+---
+### [[Cleric]] 2nd Level Spells
 [[Aid]]
 [[Augury]]
 [[Blindness-Deafness]]

@@ -1,3 +1,6 @@
+---
+Tags: [background/community]
+---
 ### The Great City
 This predominantly Human city culture is a melting pot of all of its surrounding cultures. They pride themselves on being a race of everyday heroes.
 - ***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.

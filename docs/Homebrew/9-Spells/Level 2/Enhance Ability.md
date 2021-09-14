@@ -21,3 +21,5 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 ***Owl's Wisdom.*** The target has advantage on Wisdom checks, and knows the type of any creature they can see.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+Classes: [[Cleric]]

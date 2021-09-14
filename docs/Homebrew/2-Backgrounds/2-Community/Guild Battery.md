@@ -1,3 +1,6 @@
+---
+Tags: [background/community]
+---
 ### Guild Battery
 Gnomes and other craftsmen often will build cylindrical towers where they construct and ply their trades in relative safety from warring bands and participate in active trade and communication. These settlements serve as valuable outposts that prop up the economies of a region, and are usually spared when conquered by a major force. 
 - ***Artificer's Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.

@@ -1,3 +1,6 @@
+---
+aliases: Design Principles
+---
 ## Design Principles
 
 ### Time

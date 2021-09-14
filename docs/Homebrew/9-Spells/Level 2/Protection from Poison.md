@@ -11,3 +11,5 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, this spell lasts 1 additional hour for each slot level above 2nd.
+
+Classes: [[Cleric]]

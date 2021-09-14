@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Frost Blade
 *Transmutation Cantrip*
 ___

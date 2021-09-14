@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Electrified Net
 *Evocation Cantrip*
 ___

@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Marking Strike
 *Evocation Cantrip*
 ___

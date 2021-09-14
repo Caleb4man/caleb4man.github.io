@@ -1,4 +1,7 @@
-### Cleric 1st level Spells
+---
+aliases: ClericSpells1
+---
+### [[Cleric]] 1st level Spells
 [[Bane]]
 [[Bless]]
 [[Command]]

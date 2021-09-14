@@ -1,3 +1,6 @@
+---
+Tags: [background/community]
+---
 ### The Dormant Empire
 This Elvish culture promotes academic and mystical education, as well as the ability to hunt and defend the tribe. Though nearly invisible, they cultivate and manage huge swaths of wilderness between ancient, buried walls for their own purposes.
 - ***Elf Weapon Training.*** You have proficiency with the longsword, shortsword, shortbow, and longbow.

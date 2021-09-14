@@ -11,3 +11,5 @@ This spell grants the ability to move across any liquid surface—such as water,
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
+
+Classes: [[Cleric]]

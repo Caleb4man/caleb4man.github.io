@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "87f0694a7556c09a",
+        "id": "eb94e7858cb96c0b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8-Spell Lists/Cleric/Cleric 1st level Spells.md",
+            "file": "9-Spells/Carreau's Cantrips.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d7a406edd4c53ca7"
       },
       {
-        "id": "17df3286918be935",
+        "id": "181f575ecf0cdde1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9-Spells/Level 1/Bane.md",
-            "mode": "source"
+            "file": "9-Spells/Carreau's Cantrips.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "d7a406edd4c53ca7"
       }
     ],
     "direction": "vertical"
@@ -58,6 +60,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a8bd865d5a975a2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -79,13 +89,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-Spells/Level 1/Bane.md",
+                "file": "9-Spells/Carreau's Cantrips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -107,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-Spells/Level 1/Bane.md"
+                "file": "9-Spells/Carreau's Cantrips.md"
               }
             }
           },
@@ -117,8 +127,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-Spells/Level 1/Bane.md",
-                "linksCollapsed": false,
+                "file": "9-Spells/Carreau's Cantrips.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -130,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "17df3286918be935",
+  "active": "eb94e7858cb96c0b",
   "lastOpenFiles": [
-    "9-Spells/Level 1/Bane.md",
-    "8-Spell Lists/Cleric/Cleric 1st level Spells.md",
-    "Explosive Trap.md",
-    "8-Spell Lists/Cleric/Cleric Cantrips.md",
-    "9-Spells/Cantrips/Guidance.md",
     "9-Spells/Carreau's Cantrips.md",
-    "Dark Net.md",
-    "Burning Trap.md",
-    "Commune.md",
-    "3-Classes/Cleric/Cleric Spell List.md"
+    "9-Spells/Cantrips/Spare the Dying.md",
+    "9-Spells/Cantrips/Thaumaturgy.md",
+    "9-Spells/Cantrips/Venomous Sting.md",
+    "9-Spells/Cantrips/Sedative Sting.md",
+    "9-Spells/Cantrips/Protection.md",
+    "9-Spells/Cantrips/Mending.md",
+    "9-Spells/Cantrips/Marking Strike.md",
+    "9-Spells/Cantrips/Light.md",
+    "9-Spells/Cantrips/Holy Fire.md"
   ]
 }

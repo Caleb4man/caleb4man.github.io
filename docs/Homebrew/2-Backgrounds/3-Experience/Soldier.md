@@ -1,3 +1,6 @@
+---
+Tags: [background/experience]
+---
 ### Soldier
 - ***Ability Scores:*** Str +1, Con +1
 - ***Skill Proficiencies:*** Athletics, Intimidation

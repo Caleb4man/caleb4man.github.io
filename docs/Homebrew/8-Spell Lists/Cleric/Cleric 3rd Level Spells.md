@@ -1,4 +1,7 @@
-### Cleric 3rd Level Spells
+---
+aliases: ClericSpells3
+---
+### [[Cleric]] 3rd Level Spells
 [[Animate Dead]]
 [[Aura of Vitality]]
 [[Beacon of Hope]]

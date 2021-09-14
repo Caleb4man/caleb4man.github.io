@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Sedative Sting
 *Enchantment Cantrip*
 ___

@@ -11,3 +11,5 @@ You sense the presence of any trap within range that is within line of sight. A 
 This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can choose one trap detected by this spell and learn its exact location for each level above 2nd. 
+
+Classes: [[Cleric]]

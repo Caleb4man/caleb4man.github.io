@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Burning Trap
 *Evocation Cantrip*
 ___

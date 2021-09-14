@@ -7,3 +7,5 @@ ___
 - **Duration:** Concentration, up to 1 hour
 ---
 For the duration, a willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
+
+Classes: [[Cleric]]

@@ -1,3 +1,6 @@
+---
+Tags: [background/species]
+---
 ### Gnome
 - ***Ability Scores:*** Int +1
 - ***Size:*** Medium

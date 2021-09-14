@@ -1,3 +1,6 @@
+---
+Tags: [background/species]
+---
 ### Half-Orc
 - ***Ability Scores:*** Str +1
 - ***Size:*** Medium

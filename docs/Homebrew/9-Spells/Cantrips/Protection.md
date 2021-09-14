@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Protection
 *Abjuration cantrip*
 ___

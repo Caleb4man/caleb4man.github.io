@@ -13,3 +13,5 @@ You can suppress any effect causing a target to be charmed or frightened. When t
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can choose 1 additional creature within range to be affected by this spell for each level above 2nd.
+
+Classes: [[Cleric]]

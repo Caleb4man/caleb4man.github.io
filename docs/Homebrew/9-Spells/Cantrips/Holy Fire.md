@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Holy Fire
 *Evocation cantrip*
 ___

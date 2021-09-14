@@ -1,3 +1,6 @@
+---
+Tags: [background/community]
+---
 ### Hill Villages
 These halfling cultures pride themselves on their relaxed nature and calm in the midst of turmoil. Good-natured and positive, these communities sometimes underestimate risk to their well-being.
 - ***Brave.*** You have advantage on saving throws against being frightened.

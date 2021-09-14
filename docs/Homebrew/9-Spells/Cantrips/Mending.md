@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Mending
 *Transmutation cantrip*
 ___

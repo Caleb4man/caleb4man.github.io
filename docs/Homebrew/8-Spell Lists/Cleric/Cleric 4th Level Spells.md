@@ -1,4 +1,7 @@
-### Cleric 4th Level Spells
+---
+aliases: ClericSpells4
+---
+### [[Cleric]] 4th Level Spells
 [[Aura of Life]]
 [[Aura of Purity]]
 [[Banishment]]

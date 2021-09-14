@@ -1,4 +1,7 @@
-### Making a character
+---
+aliases: Creating a Character
+---
+### Creating a character
 A character made in this manner takes one selection from each of the following categories: Species, Community, and Experience. 
 
 As one's Experience dictates their specialization, this is where the character's most ability score increases come from.
@@ -76,4 +79,4 @@ Wis/Cha: [[Charlatan]]
 [[Soldier]]
 
 ### Choosing your Class
-![[Class Overview]]
+![[1-Class Overview]]

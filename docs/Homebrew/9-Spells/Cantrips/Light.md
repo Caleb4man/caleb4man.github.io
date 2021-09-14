@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Light
 *Evocation cantrip*
 ___

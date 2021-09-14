@@ -1,3 +1,6 @@
+---
+Tags: [background/community]
+---
 ### The Depths Below
 Dwarf culture promotes the excellence of trades and crafting, and guarding against aggressive monsters from even below their underground city.
 - ***Dwarven Combat Training.*** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.

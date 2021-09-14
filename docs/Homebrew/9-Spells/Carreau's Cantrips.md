@@ -1,7 +1,7 @@
 [[Frost Blade]]
 [[Marking Strike]]
 [[Corrosive Cleave]]
-[[Venomous Sting]]
+[[Venom Sting]]
 [[Sedative Sting]]
 [[Electrified Net]]
 [[Dark Net]]

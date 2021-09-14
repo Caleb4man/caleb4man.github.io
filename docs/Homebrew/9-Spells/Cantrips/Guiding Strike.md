@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Guiding Strike
 *Divination cantrip*
 ___

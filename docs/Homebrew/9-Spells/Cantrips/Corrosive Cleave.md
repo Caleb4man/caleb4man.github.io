@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Corrosive Cleave
 *Necromancy Cantrip*
 ___

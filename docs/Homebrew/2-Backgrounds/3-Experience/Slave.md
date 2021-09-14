@@ -1,3 +1,6 @@
+---
+Tags: [background/experience]
+---
 ### Slave
 - ***Ability Scores:*** Str +1, Con +1
 - ***Skill Proficiencies:*** Athletics, Survival

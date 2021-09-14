@@ -1,3 +1,6 @@
+---
+tags: spell/cantrip
+---
 #### Spare the Dying
 *Necromancy cantrip*
 ___

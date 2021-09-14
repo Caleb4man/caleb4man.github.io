@@ -1,3 +1,6 @@
+---
+Tags: [background/experience]
+---
 ### Acolyte
 - ***Ability Scores:*** Wis +1, Int +1
 - ***Skill Proficiencies:*** Insight, Religion

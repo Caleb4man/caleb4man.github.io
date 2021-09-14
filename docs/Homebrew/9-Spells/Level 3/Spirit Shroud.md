@@ -17,3 +17,5 @@ Until the spell ends, any attack you make deals 1d4 extra damage when you hit a 
 - Any creature that takes cold damage from this spell has their speed reduced by 10 feet until the start of your next turn.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
+
+Classes: [[Cleric]]
