@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04addc853385561d",
@@ -124,7 +125,7 @@
             "id": "3c87cc5409a5513c",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -133,11 +134,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2feb881385335ea8",
   "lastOpenFiles": [
     "Rogue.md",
+    "1-Core Rules/1-Design Principles.md",
     "3-Classes/3-Cleric/Cleric.md",
     "Untitled.md",
     "OGL.md",
@@ -145,7 +148,6 @@
     "3-Classes/3-Cleric/Cleric-Subclasses/Cleric-Life.md",
     "3-Classes/3-Cleric/Cleric-Subclasses/Cleric-Nature.md",
     "3-Classes/3-Cleric/Divine Doctrines.md",
-    "3-Classes/3-Cleric/Divine Doctrines/Rapid Response.md",
-    "9-Spells/Level 1/Bane.md"
+    "3-Classes/3-Cleric/Divine Doctrines/Rapid Response.md"
   ]
 }

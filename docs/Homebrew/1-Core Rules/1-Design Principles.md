@@ -26,3 +26,6 @@ The first tier of play runs from 1-5. At this level, the characters are dealing 
 The second tier of play runs from 6-12. At this level, the characters are dealing with regional threats, adventuring in properly dangerous areas, and engaging in all the situations that the famous adventurers do not have time for.
 The third tier of play runs from 13-20. At this level, the characters are dealing with serious, world-threatening and peacekeeping operations. They are significant players on the world stage, and can tip the scales of power one way or another.
 The fourth tier of play runs from 21-25. At this level, characters are threatened only by large armies, divine intervention, and otherworldly beings. 
+
+### A Decision at Every Level
+Leveling should be common, fun, and involve a decision for the player at every step of the process. 
