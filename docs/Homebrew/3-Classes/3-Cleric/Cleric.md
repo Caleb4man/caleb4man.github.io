@@ -30,36 +30,37 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - A shield and a holy symbol
 
-<div class='classTable wide'>
+<!--<div class='classTable wide'>-->
 ##### Cleric
-| Level | Proficiency Bonus | Features     | Cantrips Known | Spell Slots | Slot Level | Divine Doctrines | Channel Divinity |
-|:---:  |:---:|:---                                 |:---:  |:---:  |:---:  |:---:  |:---:  |
-| 1st   | +2  | Spellcasting, Divine Domain         | 2     | 1     | 1st   | —     | -     |
-| 2nd   | +2  | Channel Divinity, Divine Doctrines  | 2     | 2     | 1st   | 1     | 1     |
-| 3rd   | +2  | Divine Domain Boon/Proficiencies    | 2     | 2     | 2nd   | 2     | 1     |
-| 4th   | +2  | Ability Score Improvement           | 3     | 2     | 2nd   | 2     | 1     |
-| 5th   | +3  | Feat                                | 3     | 2     | 2nd   | 2     | 1     |
-| 6th   | +3  | Destroy Undead        	            | 3     | 2     | 3rd   | 3     | 1     | 
-| 7th   | +3  | Archetype Rock                      | 4     | 2     | 3rd   | 3     | 2     |
-| 8th   | +3  | ─                                   | 4     | 2     | 4th   | 4     | 2     |
-| 9th   | +3  | Ability Score Improvement           | 4     | 2     | 4th   | 4     | 2     |
-| 10th  | +4  | Feat                                | 4     | 2     | 4th   | 4     | 2     |
-| 11th  | +4  | ─                                   | 4     | 2     | 5th   | 5     | 2     | 
-| 12th  | +4  | Divine Intervention                 | 5     | 2     | 5th   | 5     | 2     |
-| 13th  | +4  | Miracle (6th Level)                 | 5     | 3     | 5th   | 5     | 3     | 
-| 14th  | +4  | Ability Score Improvement           | 5     | 3     | 5th   | 6     | 3     |
-| 15th  | +5  | Feat                                | 5     | 3     | 5th   | 6     | 3     |
-| 16th  | +5  | Miracle (7th Level)                 | 5     | 3     | 5th   | 6     | 3     |
-| 17th  | +5  | Archetype Rock                      | 5     | 3     | 5th   | 7     | 3     |
-| 18th  | +5  | Miracle (8th Level)                 | 5     | 3     | 5th   | 7     | 3     |
-| 19th  | +5  | Ability Score Improvement           | 5     | 3     | 5th   | 7     | 3     |
-| 20th  | +6  | Feat                                | 5     | 3     | 5th   | 7     | 3     |
-| 21st  | +6  | Miracle (9th Level)                 | 6     | 4     | 5th   | 7     | 4     |
-| 22nd  | +6  | Archetype Rock                      | 6     | 4     | 5th   | 8     | 4     |
-| 23rd  | +6  | Ability Score Improvement           | 6     | 4     | 5th   | 8     | 4     |
-| 24th  | +7  | Feat                                | 6     | 4     | 5th   | 8     | 4     |
-| 25th  | +7  | Divine Intervention Improvement     | 6     | 4     | 6th   | 8     | 4     |
-</div>
+| Level | Proficiency Bonus | Features                           | Cantrips Known | Spell Slots | Slot Level | Divine Doctrines | Channel Divinity |
+|:-----:|:-----------------:|:---------------------------------- |:--------------:|:-----------:|:----------:|:----------------:|:----------------:|
+|  1st  |        +2         | Spellcasting, Divine Domain        |       2        |      1      |    1st     |        —         |        -         |
+|  2nd  |        +2         | Channel Divinity, Divine Doctrines |       2        |      2      |    1st     |        1         |        1         |
+|  3rd  |        +2         | Divine Domain Boon/Proficiencies   |       2        |      2      |    2nd     |        2         |        1         |
+|  4th  |        +2         | Ability Score Improvement          |       3        |      2      |    2nd     |        2         |        1         |
+|  5th  |        +3         | Feat                               |       3        |      2      |    2nd     |        2         |        1         |
+|  6th  |        +3         | Destroy Undead                     |       3        |      2      |    3rd     |        3         |        1         |
+|  7th  |        +3         | Archetype Rock                     |       4        |      2      |    3rd     |        3         |        2         |
+|  8th  |        +3         | ─                                  |       4        |      2      |    4th     |        4         |        2         |
+|  9th  |        +3         | Ability Score Improvement          |       4        |      2      |    4th     |        4         |        2         |
+| 10th  |        +4         | Feat                               |       4        |      2      |    4th     |        4         |        2         |
+| 11th  |        +4         | ─                                  |       4        |      2      |    5th     |        5         |        2         |
+| 12th  |        +4         | Divine Intervention                |       5        |      2      |    5th     |        5         |        2         |
+| 13th  |        +4         | Miracle (6th Level)                |       5        |      3      |    5th     |        5         |        3         |
+| 14th  |        +4         | Ability Score Improvement          |       5        |      3      |    5th     |        6         |        3         |
+| 15th  |        +5         | Feat                               |       5        |      3      |    5th     |        6         |        3         |
+| 16th  |        +5         | Miracle (7th Level)                |       5        |      3      |    5th     |        6         |        3         |
+| 17th  |        +5         | Archetype Rock                     |       5        |      3      |    5th     |        7         |        3         |
+| 18th  |        +5         | Miracle (8th Level)                |       5        |      3      |    5th     |        7         |        3         |
+| 19th  |        +5         | Ability Score Improvement          |       5        |      3      |    5th     |        7         |        3         |
+| 20th  |        +6         | Feat                               |       5        |      3      |    5th     |        7         |        3         |
+| 21st  |        +6         | Miracle (9th Level)                |       6        |      4      |    5th     |        7         |        4         |
+| 22nd  |        +6         | Archetype Rock                     |       6        |      4      |    5th     |        8         |        4         |
+| 23rd  |        +6         | Ability Score Improvement          |       6        |      4      |    5th     |        8         |        4         |
+| 24th  |        +7         | Feat                               |       6        |      4      |    5th     |        8         |        4         |
+| 25th  |        +7         | Divine Intervention Improvement    |       6        |      4      |    6th     |        8         |        4         |
+|       |                   |                                    |                |             |            |                  |                  |
+<!--</div>-->
 
 
 ### Spellcasting

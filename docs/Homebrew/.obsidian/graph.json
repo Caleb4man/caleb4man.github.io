@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#choicefeature",
@@ -50,14 +50,21 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "path:9-Spells",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"8-Spell Lists/Cleric\"",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,

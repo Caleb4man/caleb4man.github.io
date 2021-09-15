@@ -6,11 +6,11 @@ At each indicated [[Cleric]] level, you add the listed spells to your spells pre
 
 |[[Cleric]] Level|Spells |
 |------------|---------------------------|
-|1st| animal friendship, speak with animals|
-|3rd| barkskin, spike growth|
-|5th| plant growth, wind wall|
-|7th| dominate beast, grasping vine|
-|9th| insect plague, tree stride|
+|1st| [[animal friendship]], [[speak with animals]]|
+|3rd| [[barkskin]], [[spike growth]]|
+|5th| [[plant growth]], [[wind wall]]|
+|7th| [[dominate beast]], [[grasping vine]]|
+|9th| [[insect plague]], [[tree stride]]|
 |   |                           |
 
 #### Acolyte of Nature

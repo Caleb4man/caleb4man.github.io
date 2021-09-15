@@ -21,6 +21,7 @@
 ![[Mighty Force]]
 ![[Planar Defender]]
 ![[Pulse of Hope]]
+![[Rapid Response]]
 ![[Sacrifice]]
 ![[Signature Spell]]
 ![[Voice of Wrath]]

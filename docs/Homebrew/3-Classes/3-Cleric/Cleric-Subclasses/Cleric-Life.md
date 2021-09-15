@@ -5,11 +5,11 @@
 
 | [[Cleric]] Level | Spells                               |
 |--------------|--------------------------------------|
-| 1st          | bless, cure wounds                   |
-| 3rd          | lesser restoration, spiritual weapon |
-| 5th          | beacon of hope, revivify             |
-| 7th          | death ward, guardian of faith        |
-| 9th          | mass cure wounds, raise dead         |
+| 1st          | [[bless]], [[cure wounds]]                   |
+| 3rd          | [[lesser restoration]], [[spiritual weapon]] |
+| 5th          | [[beacon of hope]], [[revivify]]             |
+| 7th          | [[death ward]], [[guardian of faith]]        |
+| 9th          | [[mass cure wounds]], [[raise dead]]         |
 |              |                                      |
 
 #### Bonus Proficiency
