@@ -6,7 +6,7 @@ A character made in this manner takes one selection from each of the following c
 
 As one's Experience dictates their specialization, this is where the character's most ability score increases come from.
 
-### Ability Scores: Cards
+### [[Ability Scores]]: Cards
 Make a deck of cards with the following numbers on them: 3, 3, 4, 5, 5, 6, 6, 7, 7, 8, 9, 9. Shuffle them and divide them into 6 separate piles of 2 cards (Your DM may request that you keep them in order). 
 
 Look at the resulting numbers. You may exchange any one card for any one other card in one other pile. Add together the two numbers that are now in each pile; these are your [[ability scores]].

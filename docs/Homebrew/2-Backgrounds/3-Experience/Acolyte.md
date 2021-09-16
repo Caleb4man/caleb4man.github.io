@@ -3,7 +3,7 @@ Tags: [background/experience]
 ---
 ### Acolyte
 - ***Ability Scores:*** Wis +1, Int +1
-- ***Skill Proficiencies:*** Insight, Religion
+- ***Skill Proficiencies:*** [[Insight]], [[Religion]]
 - ***Tool Proficiencies:*** None
 - ***Languages:*** Two of your choice
 - ***Equipment:*** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp

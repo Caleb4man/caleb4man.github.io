@@ -2,7 +2,7 @@
 Tags: [background/species]
 ---
 ### Gnome
-- ***Ability Scores:*** Int +1
+- ***Ability Scores:*** [[4-Intelligence|Intelligence]] +1
 - ***Size:*** Medium
 - ***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - ***Gnome Cunning.*** You have advantage on all [[4-Intelligence|Intelligence]], [[5-Wisdom|Wisdom]], and [[6-Charisma|Charisma]] saving throws against magic.

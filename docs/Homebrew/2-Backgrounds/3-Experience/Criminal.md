@@ -3,14 +3,7 @@ Tags: [background/experience]
 ---
 ### Criminal
 - ***Ability Scores:*** Dex +1, Cha +1
-- ***Skill Proficiencies:*** Deception, Stealth
-- ***Tool Proficiencies:*** One type of gaming set, thieves' tools
-- ***Languages:*** None
-- ***Equipment:*** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp
-
-### Criminal
-- ***Ability Scores:*** Dex +1, Cha +1
-- ***Skill Proficiencies:*** Deception, Stealth
+- ***Skill Proficiencies:*** [[Deception]], [[Stealth]]
 - ***Tool Proficiencies:*** One type of gaming set, thieves' tools
 - ***Languages:*** None
 - ***Equipment:*** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp

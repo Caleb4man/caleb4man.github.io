@@ -2,7 +2,7 @@
 Tags: [background/species]
 ---
 ### Halfling
-- ***Ability Scores:*** Dex +1
+- ***Ability Scores:*** [[2-Dexterity|Dexterity]] +1
 - ***Size:*** Small
 - ***Halfling Nimbleness.*** You can move through the space of any creature that is of a size larger than yours without making an ability check.
 - ***Stout Resilience.*** You have advantage on saving throws against poison, and you have resistance against poison damage.

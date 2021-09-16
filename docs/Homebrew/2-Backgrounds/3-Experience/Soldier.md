@@ -3,7 +3,7 @@ Tags: [background/experience]
 ---
 ### Soldier
 - ***Ability Scores:*** Str +1, Con +1
-- ***Skill Proficiencies:*** Athletics, Intimidation
+- ***Skill Proficiencies:*** [[Athletics]], [[Intimidation]]
 - ***Tool Proficiencies:*** One type of gaming set, vehicles (land)
 - ***Languages:*** None
 - ***Equipment:*** Proof of your rank, a short, blunt training weapon, a dice set or playing card set, a set of common clothes, and a belt pouch containing 10 gp

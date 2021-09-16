@@ -18,7 +18,7 @@ As a rogue, you gain the following class features.
 **Weapons:** [[Simple weapons]]
 **Tools:** [[Thieves' tools]]
 **Saving Throws:** [[2-Dexterity|Dexterity]], [[4-Intelligence|Intelligence]]
-**Skills:** Choose two from from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
+**Skills:** Choose two from from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]].
 
 #### Equipment
 

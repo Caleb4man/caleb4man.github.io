@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2feb881385335ea8",
+        "id": "68c5081e18967e42",
         "type": "leaf",
-        "dimension": 65.8695652173913,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "882ddfbfd218eff4"
-      },
-      {
-        "id": "a6100839084be16d",
-        "type": "leaf",
-        "dimension": 34.130434782608695,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3-Classes/3-Cleric/Cleric.md",
-            "mode": "preview"
+            "file": "3-Classes/Rogue.md",
+            "mode": "source"
           }
-        },
-        "group": "882ddfbfd218eff4"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,13 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Classes/Rogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3-Classes/Rogue.md"
+              }
             }
           },
           {
@@ -123,8 +114,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Classes/Rogue.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -145,24 +137,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2feb881385335ea8",
+  "active": "68c5081e18967e42",
   "lastOpenFiles": [
-    "3-Classes/3-Cleric/Cleric.md",
-    "3-Classes/3-Cleric/Divine Doctrines/Firm Foundation.md",
-    "3-Classes/3-Cleric/Cleric Spell List.md",
     "3-Classes/Rogue.md",
-    "3-Classes/1-Class Overview.md",
-    "1-Core Rules/1-Design Principles.md",
-    "9-Spells/Cantrips/Mending.md",
-    "9-Spells/Cantrips/Marking Strike.md",
-    "9-Spells/Cantrips/Light.md",
-    "9-Spells/Cantrips/Holy Fire.md"
+    "1-Core Rules/Ability Scores.md",
+    "2-Backgrounds/1-Species/Half-Elf.md",
+    "2-Backgrounds/1-Species/Gnome.md",
+    "2-Backgrounds/1-Species/Elf.md",
+    "2-Backgrounds/1-Species/Dwarf.md",
+    "2-Backgrounds/1-Species/Dragonborn.md",
+    "1-Core Rules/Ability Scores/1-Strength.md",
+    "2-Backgrounds/3-Experience/Soldier.md",
+    "2-Backgrounds/3-Experience/Slave.md"
   ]
 }

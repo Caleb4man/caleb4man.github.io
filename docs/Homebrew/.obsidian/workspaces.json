@@ -1,0 +1,166 @@
+{
+  "workspaces": {
+    "Preview": {
+      "main": {
+        "id": "87b2f6817a230dfc",
+        "type": "split",
+        "children": [
+          {
+            "id": "2feb881385335ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Core Rules/Ability Scores/2-Dexterity.md",
+                "mode": "source"
+              }
+            },
+            "group": "69b5dd7e62ffc9ec"
+          },
+          {
+            "id": "ba70ab1ac576f565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Core Rules/Ability Scores/2-Dexterity.md",
+                "mode": "preview"
+              }
+            },
+            "group": "69b5dd7e62ffc9ec"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3c24480b60deee05",
+        "type": "split",
+        "children": [
+          {
+            "id": "2dd34e1bddde1be1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0abaa30c2f31b57b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2f28dff4aa79b39e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "path:9-Spells/Level",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a8bd865d5a975a2e",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "04addc853385561d",
+        "type": "split",
+        "children": [
+          {
+            "id": "16bb14274d290892",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60d4e605af72f3c9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1-Core Rules/Ability Scores/2-Dexterity.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "bec30ff645639c6f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "16d155362a922ed7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1-Core Rules/Ability Scores/2-Dexterity.md"
+                  }
+                }
+              },
+              {
+                "id": "371458ffc12873a8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1-Core Rules/Ability Scores/2-Dexterity.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3c87cc5409a5513c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ef5cfd14a1498113",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "ba70ab1ac576f565"
+    }
+  },
+  "active": "Preview"
+}

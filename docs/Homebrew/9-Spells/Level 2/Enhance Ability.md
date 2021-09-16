@@ -10,7 +10,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ***Bear's Endurance.*** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
 
-***Bull's Strength.*** The target has advantage on Strength checks, and his or her carrying capacity doubles.
+***Bull's [[1-Strength|Strength]].*** The target has advantage on [[1-Strength|Strength]] checks, and his or her carrying capacity doubles.
 
 ***Cat's Grace.*** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
 

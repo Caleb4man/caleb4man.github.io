@@ -8,59 +8,45 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#choicefeature",
+      "query": "path:\"1-Core Rules\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#Class",
+      "query": "path:2-Backgrounds",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#subclass",
+      "query": "path:3-Classes",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "tag:#spelllist",
+      "query": "path:7-Equipment",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag:#spell",
+      "query": "path:\"8-Spell Lists\"",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "tag:#background",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
       "query": "path:9-Spells",
       "color": {
         "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:\"8-Spell Lists/Cleric\"",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 5419488
       }
     }
   ],

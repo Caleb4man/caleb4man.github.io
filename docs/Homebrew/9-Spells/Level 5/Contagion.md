@@ -14,7 +14,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.
 
-***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
+***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has disadvantage on [[1-Strength|Strength]] checks, [[1-Strength|Strength]] saving throws, and attack rolls that use [[1-Strength|Strength]].
 
 ***Flesh Rot.*** The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
