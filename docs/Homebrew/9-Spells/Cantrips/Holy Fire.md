@@ -9,7 +9,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-Radiant light falls on a creature you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. This spell ignores cover.
+Radiant light falls on a creature you can see within range. The target must succeed on a [[2-Dexterity|Dexterity]] saving throw or take 1d8 radiant damage. This spell ignores cover.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 

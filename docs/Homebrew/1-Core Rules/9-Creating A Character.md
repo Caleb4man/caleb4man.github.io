@@ -9,7 +9,7 @@ As one's Experience dictates their specialization, this is where the character's
 ### Ability Scores: Cards
 Make a deck of cards with the following numbers on them: 3, 3, 4, 5, 5, 6, 6, 7, 7, 8, 9, 9. Shuffle them and divide them into 6 separate piles of 2 cards (Your DM may request that you keep them in order). 
 
-Look at the resulting numbers. You may exchange any one card for any one other card in one other pile. Add together the two numbers that are now in each pile; these are your ability scores.
+Look at the resulting numbers. You may exchange any one card for any one other card in one other pile. Add together the two numbers that are now in each pile; these are your [[ability scores]].
 
 > ##### Cards vs Rolling for stats
 > This deck of cards yields slightly worse results than taking the highest 3 of 4d6.  The average result with this deck is 12, compared to 4d6's 12.24 or 3d6's 10.5. 
@@ -44,7 +44,7 @@ Characters that are Medium size have a base walking speed of 30 feet. Characters
 > #### Why are there no exotic race communities?
 > Races like Half-elves and Half-orcs do not generally have their own community. Instead, they live in communities that are willing to harbor them, either of their parents' lineages or with another community. 
 > 
-> Tieflings largely exist within human settlements, so do not have their own community. Instead, they use a host community, like the half-races.
+> Tieflings largely exist within [[human]] settlements, so do not have their own community. Instead, they use a host community, like the half-races.
 
 
 ## Experience

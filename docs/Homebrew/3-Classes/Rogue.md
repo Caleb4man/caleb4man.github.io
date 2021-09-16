@@ -10,8 +10,8 @@ As a rogue, you gain the following class features.
 
 #### Hit Points
 - **Hit Dice:** 1d8 per rogue level
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+- **Hit Points at 1st Level:** 8 + your [[3-Constitution|Constitution]] modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your [[3-Constitution|Constitution]] modifier per rogue level after 1st
 
 #### Proficiencies
 **Armor:** [[Light armor]]
@@ -88,7 +88,7 @@ At 3rd level, you choose an archetype that you emulate as you exercise your rogu
 Uncanny Dodge
 
 ### Evasion
-Beginning at 8th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[Ice Storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 8th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[Ice Storm]] spell. When you are subjected to an effect that allows you to make a [[2-Dexterity|Dexterity]] saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Reliable Talent
 At 11th level, choose two skills for which you are proficient. Whenever you make an ability check that uses that skill, you can instead choose to forgo rolling the die and take a 10 as though you had rolled it on the die.
