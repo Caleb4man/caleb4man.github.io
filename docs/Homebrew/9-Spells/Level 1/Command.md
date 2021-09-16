@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Command
 *1st-level enchantment*
 ___

@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Healing Word
 *1st-level evocation*
 ___

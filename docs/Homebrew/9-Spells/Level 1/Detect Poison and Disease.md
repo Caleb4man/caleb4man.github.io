@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Detect Poison and Disease
 *1st-level divination (ritual)*
 ___

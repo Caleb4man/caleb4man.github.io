@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Purify Food and Drink
 *1st-level transmutation (ritual)*
 ___

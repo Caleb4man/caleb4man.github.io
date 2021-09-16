@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Protection from Evil and Good
 *1st-level abjuration*
 ___

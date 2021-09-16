@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Guiding Bolt
 *1st-level evocation*
 ___

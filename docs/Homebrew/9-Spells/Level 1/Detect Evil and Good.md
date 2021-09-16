@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Detect Evil and Good
 *1st-level divination (ritual)*
 ___

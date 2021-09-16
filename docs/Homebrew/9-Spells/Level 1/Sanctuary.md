@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Sanctuary
 *1st-level abjuration*
 ___

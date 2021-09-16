@@ -17,7 +17,7 @@ As a rogue, you gain the following class features.
 **Armor:** [[Light armor]]
 **Weapons:** [[Simple weapons]]
 **Tools:** [[Thieves' tools]]
-**Saving Throws:** [[Dexterity]], [[Intelligence]]
+**Saving Throws:** [[Dexterity]], [[4-Intelligence]]
 **Skills:** Choose two from [[History]], [[Insight]], [[Medicine]], [[Persuasion]], and [[Religion]]
 
 #### Equipment

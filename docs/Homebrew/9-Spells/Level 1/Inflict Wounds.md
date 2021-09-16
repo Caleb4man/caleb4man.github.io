@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Inflict Wounds
 *1st-level necromancy*
 ___

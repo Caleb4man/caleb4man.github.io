@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Bless
 *1st-level enchantment*
 ___

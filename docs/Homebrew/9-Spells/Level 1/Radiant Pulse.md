@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Radiant Pulse
 *Evocation cantrip*
 ___

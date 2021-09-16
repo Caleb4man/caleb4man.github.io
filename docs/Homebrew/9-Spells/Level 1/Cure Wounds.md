@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Cure Wounds
 *1st-level evocation*
 ___

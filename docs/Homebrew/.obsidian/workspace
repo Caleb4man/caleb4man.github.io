@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rogue.md",
+            "file": "2-Backgrounds/1-Species/Dragonborn.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "882ddfbfd218eff4"
+      },
+      {
+        "id": "a6100839084be16d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2-Backgrounds/1-Species/Dragonborn.md",
+            "mode": "preview"
+          }
+        },
+        "group": "882ddfbfd218eff4"
       }
     ],
     "direction": "vertical"
@@ -60,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04addc853385561d",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rogue.md",
+                "file": "2-Backgrounds/1-Species/Dragonborn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rogue.md"
+                "file": "2-Backgrounds/1-Species/Dragonborn.md"
               }
             }
           },
@@ -115,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rogue.md",
+                "file": "2-Backgrounds/1-Species/Dragonborn.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -130,24 +142,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2feb881385335ea8",
   "lastOpenFiles": [
-    "Rogue.md",
+    "2-Backgrounds/1-Species/Dragonborn.md",
+    "1-Core Rules/Ability Scores.md",
+    "1-Core Rules/9-Creating A Character.md",
+    "1-Core Rules/5-Ability Checks.md",
     "1-Core Rules/1-Design Principles.md",
-    "3-Classes/3-Cleric/Cleric.md",
-    "Untitled.md",
-    "OGL.md",
-    "To Do.md",
-    "3-Classes/3-Cleric/Cleric-Subclasses/Cleric-Life.md",
-    "3-Classes/3-Cleric/Cleric-Subclasses/Cleric-Nature.md",
-    "3-Classes/3-Cleric/Divine Doctrines.md",
-    "3-Classes/3-Cleric/Divine Doctrines/Rapid Response.md"
+    "0-Templates/Spell-FrontMatter.md",
+    "1-Core Rules/Ability Scores/6-Charisma.md",
+    "1-Core Rules/Ability Scores/5-Wisdom.md",
+    "1-Core Rules/Ability Scores/4-Intelligence.md",
+    "1-Core Rules/Ability Scores/3-Constitution.md"
   ]
 }

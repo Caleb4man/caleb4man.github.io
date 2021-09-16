@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Shield of Faith
 *1st-level abjuration*
 ___

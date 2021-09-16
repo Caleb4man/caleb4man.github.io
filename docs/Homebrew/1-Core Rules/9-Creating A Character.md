@@ -51,7 +51,7 @@ Characters that are Medium size have a base walking speed of 30 feet. Characters
 
 ### Background
 <!-- 
-- ***Ability Scores:***
+- ***[[Ability Scores]]:***
 - ***Skill Proficiencies:***
 - ***Tool Proficiencies:***
 - ***Languages:***

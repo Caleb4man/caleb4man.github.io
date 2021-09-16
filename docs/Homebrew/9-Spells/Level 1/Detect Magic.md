@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Detect Magic
 *1st-level divination (ritual)*
 ___

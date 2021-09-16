@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Bane
 *1st-level enchantment*
 ___

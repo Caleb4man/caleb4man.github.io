@@ -1,4 +1,9 @@
 <!--
+
+---
+#spell/Level1
+---
+
 #### Toll the Dead
 *Necromancy cantrip*
 ___

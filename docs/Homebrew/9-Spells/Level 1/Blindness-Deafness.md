@@ -1,3 +1,6 @@
+---
+#spell/Level1
+---
 #### Blindness/Deafness
 *2nd-level necromancy*
 ___
