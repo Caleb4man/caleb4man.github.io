@@ -6,22 +6,21 @@
       {
         "id": "2feb881385335ea8",
         "type": "leaf",
+        "dimension": 65.8695652173913,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "9-Spells/Cantrips/Mending.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "882ddfbfd218eff4"
       },
       {
         "id": "a6100839084be16d",
         "type": "leaf",
+        "dimension": 34.130434782608695,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9-Spells/Cantrips/Mending.md",
+            "file": "3-Classes/3-Cleric/Cleric.md",
             "mode": "preview"
           }
         },
@@ -52,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:9-Spells/Level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-Spells/Cantrips/Mending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9-Spells/Cantrips/Mending.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,9 +123,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-Spells/Cantrips/Mending.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -140,25 +135,34 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ef5cfd14a1498113",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2feb881385335ea8",
   "lastOpenFiles": [
+    "3-Classes/3-Cleric/Cleric.md",
+    "3-Classes/3-Cleric/Divine Doctrines/Firm Foundation.md",
+    "3-Classes/3-Cleric/Cleric Spell List.md",
+    "3-Classes/Rogue.md",
+    "3-Classes/1-Class Overview.md",
+    "1-Core Rules/1-Design Principles.md",
     "9-Spells/Cantrips/Mending.md",
     "9-Spells/Cantrips/Marking Strike.md",
     "9-Spells/Cantrips/Light.md",
-    "9-Spells/Cantrips/Holy Fire.md",
-    "9-Spells/Cantrips/Guiding Strike.md",
-    "9-Spells/Cantrips/Guidance.md",
-    "9-Spells/Cantrips/Frost Blade.md",
-    "9-Spells/Cantrips/Explosive Trap.md",
-    "9-Spells/Cantrips/Electrified Net.md",
-    "9-Spells/Cantrips/Dark Net.md"
+    "9-Spells/Cantrips/Holy Fire.md"
   ]
 }

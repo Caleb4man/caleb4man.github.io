@@ -14,21 +14,21 @@ As a cleric, you gain the following class features.
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your [[3-Constitution|Constitution]] modifier per cleric level after 1st
 
 #### Proficiencies
-**Armor:** Light armor, medium armor, shields
-**Weapons:** Simple weapons
+**Armor:** [[Light armor]], [[medium armor]], [[shields]]
+**Weapons:** [[Simple weapon]]s
 **Tools:** None
 **Saving Throws:** [[5-Wisdom|Wisdom]], [[6-Charisma|Charisma]]
-**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+**Skills:** Choose two from [[History]], [[Insight]], [[Medicine]], [[Persuasion]], and [[Religion]].
 
 #### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a mace or (*b*) a warhammer (if proficient)
-- (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
-- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-- (*a*) a priest's pack or (*b*) an explorer's pack
-- A shield and a holy symbol
+- (*a*) a [[mace]] or (*b*) a [[warhammer]] (if proficient)
+- (*a*) [[scale mail]], (*b*) [[leather armor]], or (*c*) [[chain mail]] (if proficient)
+- (*a*) a [[light crossbow]] and 20 bolts or (*b*) any [[simple weapon]]
+- (*a*) a [[priest's pack]] or (*b*) an [[explorer's pack]]
+- A [[shield]] and a [[holy symbol]]
 
 <!--<div class='classTable wide'>-->
 ##### Cleric

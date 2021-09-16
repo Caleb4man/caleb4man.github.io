@@ -17,8 +17,8 @@ As a rogue, you gain the following class features.
 **Armor:** [[Light armor]]
 **Weapons:** [[Simple weapons]]
 **Tools:** [[Thieves' tools]]
-**Saving Throws:** [[Dexterity]], [[4-Intelligence]]
-**Skills:** Choose two from [[History]], [[Insight]], [[Medicine]], [[Persuasion]], and [[Religion]]
+**Saving Throws:** [[2-Dexterity|Dexterity]], [[4-Intelligence|Intelligence]]
+**Skills:** Choose two from from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.
 
 #### Equipment
 
@@ -31,34 +31,34 @@ You start with the following equipment, in addition to the equipment granted by 
 
 <!--<div class='classTable wide'>-->
 ##### Rogue
-| Level | Proficiency Bonus | Features                           | Sneak Attack  |
-|:-----:|:-----------------:|:---------------------------------- |:-------------:|
-|  1st  |        +2         | Sneak Attack, Thieves' cant        |       1d6     |
-|  2nd  |        +2         | Canny, Cunning Action              |       1d6     |
-|  3rd  |        +2         | Subclass                         |       2d6     |
-|  4th  |        +2         | Ability Score Improvement          |       2d6     |
-|  5th  |        +3         | Feat                               |       2d6     |
-|  6th  |        +3         | Uncanny Dodge, Proficiency                      |       3d6     |
-|  7th  |        +3         | Canny Improvement                  |       3d6     |
-|  8th  |        +3         | Evasion                            |       4d6     |
-|  9th  |        +3         | Ability Score Improvement          |       4d6     |
-| 10th  |        +4         | Feat                               |       4d6     |
-| 11th  |        +4         | ─                                  |       5d6     |
-| 12th  |        +4         | Reliable Talent                    |       5d6     |
-| 13th  |        +4         |                     |       6d6     |
-| 14th  |        +4         | Ability Score Improvement          |       6d6     |
-| 15th  |        +5         | Feat                               |       6d6     |
-| 16th  |        +5         | Blindsense                         |       7d6     |
-| 17th  |        +5         | Archetype Rock                     |       7d6     |
-| 18th  |        +5         | Elusive                            |       8d6     |
-| 19th  |        +5         | Ability Score Improvement          |       8d6     |
-| 20th  |        +6         | Feat                               |       8d6     |
-| 21st  |        +6         | Archetype Rock                     |       9d6     |
-| 22nd  |        +6         | Elusive                            |       9d6     |
-| 23rd  |        +6         | Ability Score Improvement          |       10d6    |
-| 24th  |        +7         | Feat                               |       10d6    |
-| 25th  |        +7         | Stroke of Luck                     |       10d6    |
-|       |                   |                                    |               |
+| Level | Proficiency Bonus | Features                    | Sneak Attack | Canny   |
+|:-----:|:-----------------:|:--------------------------- |:------------:|:-------:|
+|  1st  |        +2         | Sneak Attack, Thieves' cant |     1d6      | -       |
+|  2nd  |        +2         | Canny, Cunning Action       |     1d6      | 1       |
+|  3rd  |        +2         | Subclass                    |     2d6      | 1       |
+|  4th  |        +2         | Ability Score Improvement   |     2d6      | 1       |
+|  5th  |        +3         | Feat                        |     2d6      | 1       |
+|  6th  |        +3         | Uncanny Dodge, Proficiency  |     3d6      | 2       |
+|  7th  |        +3         | Canny Improvement           |     3d6      | 3       |
+|  8th  |        +3         | Evasion                     |     4d6      | 3       |
+|  9th  |        +3         | Ability Score Improvement   |     4d6      | 3       |
+| 10th  |        +4         | Feat                        |     4d6      | 3       |
+| 11th  |        +4         | ─                           |     5d6      | 4       |
+| 12th  |        +4         | Reliable Talent             |     5d6      | 4       |
+| 13th  |        +4         |                             |     6d6      | 5       |
+| 14th  |        +4         | Ability Score Improvement   |     6d6      | 5       |
+| 15th  |        +5         | Feat                        |     6d6      | 5       |
+| 16th  |        +5         | Blindsense                  |     7d6      | 5       |
+| 17th  |        +5         | Archetype Rock              |     7d6      | 6       |
+| 18th  |        +5         | Elusive                     |     8d6      | 6       |
+| 19th  |        +5         | Ability Score Improvement   |     8d6      | 6       |
+| 20th  |        +6         | Feat                        |     8d6      | 6       |
+| 21st  |        +6         | Archetype Rock              |     9d6      | 7       |
+| 22nd  |        +6         | Elusive                     |     9d6      | 8       |
+| 23rd  |        +6         | Ability Score Improvement   |     10d6     | 8       |
+| 24th  |        +7         | Feat                        |     10d6     | 8       |
+| 25th  |        +7         | Stroke of Luck              |     10d6     | 9       |
+|       |                   |                             |              |         |
 <!--</div>-->
 
 ### Sneak Attack
@@ -75,8 +75,8 @@ During your rogue training you learned thieves' cant, a secret mix of dialect, j
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 ### Canny
-At 2nd level, choose one of your skill proficiencies. If you do not already have expertise in that skill, you gain expertise in that skill.
-At 7th level, you can choose two more of your skill proficiencies to gain expertise in.
+Starting at 1st level, choose one skill. You gain [[proficiency]] in that skill. If you already have proficiency in that skill, you instead gain [[expertise]] in that skill.
+You gain this feature multiple times as you level up in this class, as indicated by the Rogue table.
 
 ### Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [[Dash]], [[Disengage]], or [[Hide]] action.
@@ -86,6 +86,7 @@ At 3rd level, you choose an archetype that you emulate as you exercise your rogu
 
 ### Hunter Feature
 Uncanny Dodge
+Extra Attack?
 
 ### Evasion
 Beginning at 8th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[Ice Storm]] spell. When you are subjected to an effect that allows you to make a [[2-Dexterity|Dexterity]] saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.

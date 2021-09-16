@@ -16,7 +16,7 @@ Because of the significant change, most classes will now play more like the warl
 Many players enjoy optimizing for combat.
 That's great. We appreciate that.
 
-However, most players would also like to have an enjoyable time working outside of combat, and each character should have different tools to work with. Each class should feel as though it brings something different to the table.
+However, most players would also like to have an enjoyable time working outside of combat, and each character should have different tools to work with. Each class should feel as though it brings something different to the table. Fighters should have valuable things to add to out-of-combat instances. 
 
 ### Magic and Heroes
 All heroes are assumed to be magical. They perform feats of incredible mystery, speed, skill, and power. The way that magic manifests itself in their life is based on what class they play as.
