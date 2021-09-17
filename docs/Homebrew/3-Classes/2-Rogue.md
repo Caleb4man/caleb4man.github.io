@@ -31,45 +31,44 @@ You start with the following equipment, in addition to the equipment granted by 
 
 <!--<div class='classTable wide'>-->
 ##### Rogue
-| Level | Proficiency Bonus | Features                    | Sneak Attack | Canny   |
-|:-----:|:-----------------:|:--------------------------- |:------------:|:-------:|
-|  1st  |        +2         | Sneak Attack, Thieves' cant |     1d6      | -       |
-|  2nd  |        +2         | Canny, Cunning Action       |     1d6      | 1       |
-|  3rd  |        +2         | Subclass                    |     2d6      | 1       |
-|  4th  |        +2         | Ability Score Improvement   |     2d6      | 1       |
-|  5th  |        +3         | Feat                        |     2d6      | 1       |
-|  6th  |        +3         | Uncanny Dodge, Proficiency  |     3d6      | 2       |
-|  7th  |        +3         | Canny Improvement           |     3d6      | 3       |
-|  8th  |        +3         | Evasion                     |     4d6      | 3       |
-|  9th  |        +3         | Ability Score Improvement   |     4d6      | 3       |
-| 10th  |        +4         | Feat                        |     4d6      | 3       |
-| 11th  |        +4         | ─                           |     5d6      | 4       |
-| 12th  |        +4         | Reliable Talent             |     5d6      | 4       |
-| 13th  |        +4         |                             |     6d6      | 5       |
-| 14th  |        +4         | Ability Score Improvement   |     6d6      | 5       |
-| 15th  |        +5         | Feat                        |     6d6      | 5       |
-| 16th  |        +5         | Blindsense                  |     7d6      | 5       |
-| 17th  |        +5         | Archetype Rock              |     7d6      | 6       |
-| 18th  |        +5         | Elusive                     |     8d6      | 6       |
-| 19th  |        +5         | Ability Score Improvement   |     8d6      | 6       |
-| 20th  |        +6         | Feat                        |     8d6      | 6       |
-| 21st  |        +6         | Archetype Rock              |     9d6      | 7       |
-| 22nd  |        +6         | Elusive                     |     9d6      | 8       |
-| 23rd  |        +6         | Ability Score Improvement   |     10d6     | 8       |
-| 24th  |        +7         | Feat                        |     10d6     | 8       |
-| 25th  |        +7         | Stroke of Luck              |     10d6     | 9       |
-|       |                   |                             |              |         |
+| Level | Proficiency Bonus | Features                    | Sneak Attack | Canny |
+|:-----:|:-----------------:|:--------------------------- |:------------:|:-----:|
+|  1st  |        +2         | Sneak Attack, Thieves' cant |     1d6      |   -   |
+|  2nd  |        +2         | Canny, Cunning Action       |     1d6      |   1   |
+|  3rd  |        +2         | Subclass                    |     2d6      |   1   |
+|  4th  |        +2         | Ability Score Improvement   |     2d6      |   1   |
+|  5th  |        +3         | Feat                        |     2d6      |   1   |
+|  6th  |        +3         | Underhanded Fighting        |     3d6      |   1   |
+|  7th  |        +3         | -                           |     3d6      |   2   |
+|  8th  |        +3         | Subclass Feature            |     4d6      |   2   |
+|  9th  |        +3         | Ability Score Improvement   |     4d6      |   3   |
+| 10th  |        +4         | Feat                        |     4d6      |   3   |
+| 11th  |        +4         | Feature                     |     5d6      |   3   |
+| 12th  |        +4         | -                           |     5d6      |   4   |
+| 13th  |        +4         | Subclass Feature            |     6d6      |   4   |
+| 14th  |        +4         | Ability Score Improvement   |     6d6      |   5   |
+| 15th  |        +5         | Feat                        |     6d6      |   5   |
+| 16th  |        +5         | Fighting Style              |     7d6      |   5   |
+| 17th  |        +5         | -                           |     7d6      |   6   |
+| 18th  |        +5         | Subclass Feature            |     8d6      |   6   |
+| 19th  |        +5         | Ability Score Improvement   |     8d6      |   7   |
+| 20th  |        +6         | Feat                        |     8d6      |   7   |
+| 21st  |        +6         | -                           |     9d6      |   8   |
+| 22nd  |        +6         | Elusive                     |     9d6      |   8   |
+| 23rd  |        +6         | Ability Score Improvement   |     10d6     |   8   |
+| 24th  |        +7         | Feat                        |     10d6     |   9   |
+| 25th  |        +7         | Stroke of Luck              |     10d6     |   9   |
+|       |                   |                             |              |       |
 <!--</div>-->
 
 ### Sneak Attack
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage of the weapon's damage type to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[Incapacitated]], and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
 ### Thieves' Cant
-
 During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.

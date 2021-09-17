@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/To Do.md",
+            "file": "3-Classes/1-Fighter/1-Fighter.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/To Do.md",
+                "file": "3-Classes/1-Fighter/1-Fighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/To Do.md"
+                "file": "3-Classes/1-Fighter/1-Fighter.md"
               }
             }
           },
@@ -114,9 +114,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/To Do.md",
+                "file": "3-Classes/1-Fighter/1-Fighter.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -141,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ba70ab1ac576f565",
   "lastOpenFiles": [
-    "Other/To Do.md",
-    "1-Core Rules/9-Creating A Character.md",
-    "2-Backgrounds/1-Species/Dragonborn.md",
-    "3-Classes/Rogue.md",
-    "7-Feats/Feats.md",
-    "1-Core Rules/Ability Scores/2-Dexterity.md",
-    "7-Feats/Feats/Actor.md",
-    "Untitled.md",
-    "7-Feats/Actor.md",
-    "War Caster.md"
+    "3-Classes/1-Fighter/1-Fighter.md",
+    "Blade Thicket.md",
+    "Team Strike.md",
+    "Cleave.md",
+    "3-Classes/1-Fighter/Eldritch Knight.md",
+    "Battlemaster.md",
+    "Champion.md",
+    "3-Classes/1-Fighter.md",
+    "3-Classes/1-Class Overview.md",
+    "3-Classes/4-Sorcerer.md"
   ]
 }

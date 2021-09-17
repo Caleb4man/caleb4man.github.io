@@ -1,1 +1,12 @@
-{}
+{
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}
