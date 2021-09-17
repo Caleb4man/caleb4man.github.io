@@ -34,12 +34,12 @@ Characters that are Medium size have a base walking speed of 30 feet. Characters
 ![[Tiefling]]
 
 ## Community
-[[The Great City]]
-[[The Depths Below]]
-[[The Dormant Empire]]
-[[Hill Villages]]
-[[War Band]]
-[[Guild Battery]]
+![[The Great City]]
+![[The Depths Below]]
+![[The Dormant Empire]]
+![[Hill Villages]]
+![[War Band]]
+![[Guild Battery]]
 
 > #### Why are there no exotic race communities?
 > Races like Half-elves and Half-orcs do not generally have their own community. Instead, they live in communities that are willing to harbor them, either of their parents' lineages or with another community. 
@@ -48,6 +48,7 @@ Characters that are Medium size have a base walking speed of 30 feet. Characters
 
 
 ## Experience
+![[Acolyte]]
 
 ### Background
 <!-- 

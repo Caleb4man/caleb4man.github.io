@@ -1,11 +1,9 @@
-Fix all Cantrips scaling
-Feats
-Rogue
-Fighter
-Sorcerer
+- [ ] Task: Fix all Cantrips scaling
+- [ ] Feats (Still need Armor feats)
+- [ ] Rogue (Partway done)
+- [ ] Fighter
+- [ ] Sorcerer
 
-Paladin
-Ranger
-Bard
-
-#Primary
+- [ ] Paladin
+- [ ] Ranger
+- [ ] Bard
