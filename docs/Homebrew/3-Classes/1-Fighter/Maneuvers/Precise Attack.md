@@ -1,5 +1,5 @@
 #### Precise Attack
-*Fighter Maneuver*
+*[[1-Fighter|Fighter]] Maneuver*
 ___
 - **Time:** 1 attack
 - **Duration:** Instantaneous

@@ -2,7 +2,7 @@
 Tags: [background/experience]
 ---
 ### Acolyte
-- ***Ability Scores:*** Wis +1, Int +1
+- ***Ability Scores:*** Wisdom +1, Intelligence +1
 - ***Skill Proficiencies:*** [[Insight]], [[Religion]]
 - ***Tool Proficiencies:*** None
 - ***Languages:*** Two of your choice

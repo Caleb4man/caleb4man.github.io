@@ -9,7 +9,7 @@ At each indicated [[Cleric]] level, you add the listed spells to your spells pre
 |1st| [[animal friendship]], [[speak with animals]]|
 |3rd| [[barkskin]], [[spike growth]]|
 |5th| [[plant growth]], [[wind wall]]|
-|7th| [[dominate beast]], [[grasping vine]]|
+|7th| [[Dominate Beast]], [[grasping vine]]|
 |9th| [[insect plague]], [[tree stride]]|
 |   |                           |
 

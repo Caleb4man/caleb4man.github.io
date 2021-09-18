@@ -20,6 +20,6 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ***Mindfire.*** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *confusion* spell during combat.
 
-***Seizure.*** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
+***Seizure.*** The creature is overcome with shaking. The creature has disadvantage on [[2-Dexterity|Dexterity]] checks, [[2-Dexterity|Dexterity]] saving throws, and attack rolls that use [[2-Dexterity|Dexterity]].
 
 ***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.

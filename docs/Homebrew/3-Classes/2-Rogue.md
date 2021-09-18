@@ -1,5 +1,6 @@
 ---
 Tags: class, ToDo
+Aliases: Rogue
 ---
 # Rogue
 This is where a vignette would go if this was a class in the PHB. However, I don't have the skills required to write a vignette for this. So instead, you are getting a bunch of filler content instead, just large enough to make the design space work nicely. 

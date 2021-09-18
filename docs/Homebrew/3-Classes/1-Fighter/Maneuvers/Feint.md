@@ -1,5 +1,5 @@
 #### Feint
-*Fighter Maneuver*
+*[[1-Fighter|Fighter]] Maneuver*
 ___
 - **Time:** 1 action
 - **Duration:** 1 round

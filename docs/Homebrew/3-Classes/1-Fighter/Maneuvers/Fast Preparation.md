@@ -1,5 +1,5 @@
 #### Fast Preparation
-*Fighter Maneuver*
+*[[1-Fighter|Fighter]] Maneuver*
 ___
 - **Time:** 1 action
 - **Duration:** Instantaneous

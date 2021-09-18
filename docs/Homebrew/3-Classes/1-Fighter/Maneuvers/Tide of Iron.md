@@ -5,4 +5,4 @@ ___
 - **Duration:** Instantaneous
 - **Prerequisite:** Shield
 
-When you attack with this maneuver, you use your shield to shove the target back. The target must succeed on a Strength saving throw or be pushed 5 feet away from you. 
+When you attack with this maneuver, you use your shield to shove the target back. The target must succeed on a [[1-Strength|Strength]] saving throw or be pushed 5 feet away from you. 

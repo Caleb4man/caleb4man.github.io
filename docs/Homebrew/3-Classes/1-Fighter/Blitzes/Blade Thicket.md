@@ -1,5 +1,5 @@
 #### Blade Thicket
-*Fighter Blitz*
+*[[1-Fighter]] Blitz*
 ___
 - **Time:** 1 action
 - **Duration:** 1 minute

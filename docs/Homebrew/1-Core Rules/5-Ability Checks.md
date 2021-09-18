@@ -29,7 +29,6 @@ Both participants in a contest make ability checks appropriate to their efforts.
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
 ## Skills
-
 Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
 
 For example, a [[2-Dexterity|Dexterity]] check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of [[2-Dexterity|Dexterity]] has an associated skill: [[Acrobatics]], [[Sleight of Hand]], and [[Stealth]], respectively. So a character who has proficiency in the [[Stealth]] skill is particularly good at [[2-Dexterity|Dexterity]] checks related to sneaking and hiding.

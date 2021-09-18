@@ -4,8 +4,6 @@ Aliases: Fighter
 # Fighter
 This fighter is designed for a specific type of player who enjoys a more technical style of play. As it stands, the Fighter is a lackluster class for this, but the 4th edition fighter did this well. In order to bring some of the magic back from the old 4e days, I present to you the (Nerd) Fighter, an optional alternative to the fighter for a more complex playstyle.
 
-Throughout this document, this class is known as the Fighter or (Nerd) Fighter.
-
 ##### The Fighter
 | Level | Proficiency Bonus | Features                                 | Maneuvers Known | Superiority Dice | Exploits Known | Blitzes Known |
 |:-----:|:-----------------:|:---------------------------------------- |:---------------:|:----------------:|:--------------:|:-------------:|
@@ -20,15 +18,15 @@ Throughout this document, this class is known as the Fighter or (Nerd) Fighter.
 |  9th  |        +4         | Indomitable                              |        6        |        5         |       5        |       —       |
 | 10th  |        +4         | Extra Attack (2), Superiority (d10)      |        6        |        5         |       5        |       —       |
 | 11th  |        +4         | Blitz                                    |        6        |        6         |       5        |       1       |
-| 12th  |        +4         | Ability Score Improvement                |        6        |        6        |       6        |       1       |
-| 13th  |        +5         | Action Surge (1)                         |        7        |        7        |       6        |       2       |
-| 14th  |        +5         | Indomitable (2)                          |        7        |        7        |       6        |       2       |
-| 15th  |        +5         | Superiority Dice (d12), Subclass Feature |        7        |        8        |       7        |       3       |
-| 16th  |        +5         | Ability Score Improvement                |        7        |        8        |       7        |       3       |
-| 17th  |        +6         | Blitz Recovery                           |        8        |        9        |       7        |       4       |
-| 18th  |        +6         | Action Surge (2)                         |        8        |        9        |       8        |       4       |
+| 12th  |        +4         | Ability Score Improvement                |        6        |        6         |       6        |       1       |
+| 13th  |        +5         | Action Surge (1)                         |        7        |        7         |       6        |       2       |
+| 14th  |        +5         | Indomitable (2)                          |        7        |        7         |       6        |       2       |
+| 15th  |        +5         | Superiority Dice (d12), Subclass Feature |        7        |        8         |       7        |       3       |
+| 16th  |        +5         | Ability Score Improvement                |        7        |        8         |       7        |       3       |
+| 17th  |        +6         | Blitz Recovery                           |        8        |        9         |       7        |       4       |
+| 18th  |        +6         | Action Surge (2)                         |        8        |        9         |       8        |       4       |
 | 19th  |        +6         | Ability Score Improvement                |        8        |        10        |       8        |       5       |
-| 24th  |        +6         | Feat                                     |        8        |        10        |       8        |       5       | 
+| 24th  |        +6         | Feat                                     |        8        |        10        |       8        |       5       |
 | 20th  |        +6         | Extra Attack (3)                         |        8        |        10        |       8        |       5       |
 
 ## Class Features

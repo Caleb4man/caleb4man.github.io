@@ -1,5 +1,6 @@
 ---
-Tags: [class]
+Tags: Class
+Aliases: Cleric
 ---
 # Cleric
 This is where a vignette would go if this was a class in the PHB. However, I don't have the skills required to write a vignette for this. So instead, you are getting a bunch of filler content instead, just large enough to make the design space work nicely. 
@@ -162,5 +163,5 @@ As you gain more levels, you gain more of these spell slots - a 7th level slot a
 
 ## [[Cleric Spell List]]
 
-#Class
+
 [[OGL]]

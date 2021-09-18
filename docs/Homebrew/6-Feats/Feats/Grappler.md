@@ -1,6 +1,6 @@
 #### Grappler
 
-_Prerequisite: Strength 13 or higher_
+_Prerequisite: [[1-Strength|Strength]] 13 or higher_
 
 ---
 

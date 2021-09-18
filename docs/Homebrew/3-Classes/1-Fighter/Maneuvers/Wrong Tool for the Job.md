@@ -7,7 +7,7 @@ ___
 
 When you attack with this maneuver, you can use your weapon to attack with bludgeoning, piercing, or slashing damage, regardless of what your weapon's damage type normally is. You also gain one of the following effects if you hit your target based on the new damage type.
 
-**Bludgeoning.** When you hit a creature of your size or smaller with this maneuver and deal bludgeoning damage, you can force the creature to make a Strength saving throw or move 5 feet in a direction of your choice.
+**Bludgeoning.** When you hit a creature of your size or smaller with this maneuver and deal bludgeoning damage, you can force the creature to make a [[1-Strength|Strength]] saving throw or move 5 feet in a direction of your choice.
 
 **Piercing.** When you hit a creature with this maneuver and deal piercing damage, you can reroll one of the attack's damage dice that would deal piercing damage, and you must use the new roll. 
 

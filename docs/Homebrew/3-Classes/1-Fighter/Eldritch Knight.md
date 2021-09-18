@@ -1,8 +1,8 @@
 ### Eldritch Knight
-The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
+The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the [[1-Fighter]]'s reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
 #### Spellcasting
-When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
+When you reach 3rd level, you augment your martial prowess with the ability to cast spells. 
 
 ***Cantrips.*** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
 ***Spell Slots***. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -42,7 +42,7 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 
 <div class='classTable'>
 ##### Eldritch Knight Spellcasting
-| Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+| [[Fighter]] Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
 |:-:|:-|:-|:-:|:-:|:-:|:-:|
 |3rd| 2| 3|2|-|-|-|
 |4th| 2| 4|3|-|-|-|

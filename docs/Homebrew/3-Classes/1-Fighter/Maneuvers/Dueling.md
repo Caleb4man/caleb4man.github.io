@@ -1,5 +1,5 @@
 #### Dueling
-*Fighter Maneuver*
+*[[1-Fighter]] Maneuver*
 ___
 - **Time:** 1 attack
 - **Duration:** Instantaneous
