@@ -10,4 +10,4 @@ Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder wi
 
 The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a [[2-Dexterity|Dexterity]] saving throw. On a failed save, it falls prone.
 
-If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful [[3-Constitution|Constitution]] saving throw against your spell save DC or lose concentration.
+If a creature starts its turn in the spell's area and is concentrating on a spell, the creature must make a successful [[1-Constitution|Constitution]] saving throw against your spell save DC or lose concentration.

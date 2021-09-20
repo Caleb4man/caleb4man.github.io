@@ -2,12 +2,11 @@
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
 
--   **[[1-Strength|Strength]]**, measuring physical power
--   **[[2-Dexterity|Dexterity]]**, measuring agility
--   **[[3-Constitution|Constitution]]**, measuring endurance
--   **[[4-Intelligence|Intelligence]]**, measuring reasoning and memory
--   **[[5-Wisdom|Wisdom]]**, measuring perception and insight
--   **[[6-Charisma|Charisma]]**, measuring force of personality
+-   **[[3-Constitution|Constitution]]**, measuring physical power
+-   **[[2-Dexterity|Dexterity]]**, measuring agilit[[1-Constitution|Constitution]]tution]]**, measuring endurance
+-   **[[3-Intelligence|Intelligence]]**, measuring reasoning and memory
+-   **[[3-Intelligence|Intelligence]]**, measuring perception and insight
+-   **[[4-Charisma|Charisma]]**, measuring force of personality
 
 Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities--a creature's assets as well as weaknesses. The three main rolls of the game--the ability check, the saving throw, and the attack roll--rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 

@@ -16,10 +16,10 @@ The spells you learn at 8th, 14th, and 20th level can come from any school of ma
 
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.
 
-***Spellcasting Ability.*** [[4-Intelligence|Intelligence]] is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your [[4-Intelligence|Intelligence]] whenever a spell refers to your spellcasting ability. In addition, you use your [[4-Intelligence|Intelligence]] modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+***Spellcasting Ability.*** [[3-Intelligence|Intelligence]] is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your [[3-Intelligence|Intelligence]] whenever a spell refers to your spellcasting ability. In addition, you use your [[3-Intelligence|Intelligence]] modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your [[4-Intelligence|Intelligence]] modifier
-**Spell attack modifier** = your proficiency bonus + your [[4-Intelligence|Intelligence]] modifier
+**Spell save DC** = 8 + your proficiency bonus + your [[3-Intelligence|Intelligence]] modifier
+**Spell attack modifier** = your proficiency bonus + your [[3-Intelligence|Intelligence]] modifier
 
 #### Weapon Bond
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.

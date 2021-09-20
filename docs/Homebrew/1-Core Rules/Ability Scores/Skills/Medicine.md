@@ -1,1 +1,1 @@
-**Medicine.** A [[5-Wisdom|Wisdom]] (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
+**Medicine.** A [[4-Intelligence|Intelligence]] (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.

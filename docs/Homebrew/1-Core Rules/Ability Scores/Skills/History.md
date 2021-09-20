@@ -1,1 +1,1 @@
-**History.** Your [[4-Intelligence|Intelligence]] (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+**History.** Your [[3-Intelligence|Intelligence]] (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.

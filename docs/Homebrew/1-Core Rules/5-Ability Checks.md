@@ -33,9 +33,9 @@ Each ability covers a broad range of capabilities, including skills that a chara
 
 For example, a [[2-Dexterity|Dexterity]] check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of [[2-Dexterity|Dexterity]] has an associated skill: [[Acrobatics]], [[Sleight of Hand]], and [[Stealth]], respectively. So a character who has proficiency in the [[Stealth]] skill is particularly good at [[2-Dexterity|Dexterity]] checks related to sneaking and hiding.
 
-The skills related to each ability score are shown in the following list. (No skills are related to [[3-Constitution|Constitution]].) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
+The skills related to each ability score are shown in the following list. (No skills are related to [[1-Constitution|Constitution]].) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-### [[1-Strength|Strength]]
+### [[3-Constitution|Constitution]]
 
 -   [[Athletics]]
 
@@ -45,7 +45,7 @@ The skills related to each ability score are shown in the following list. (No sk
 -   [[Sleight of Hand]]
 -   [[Stealth]]
 
-### [[4-Intelligence|Intelligence]]
+### [[3-Intelligence|Intelligence]]
 
 -   [[Arcana]]
 -   [[History]]
@@ -53,7 +53,7 @@ The skills related to each ability score are shown in the following list. (No sk
 -   [[Nature]]
 -   [[Religion]]
 
-### [[5-Wisdom|Wisdom]]
+### [[3-Intelligence|Intelligence]]
 
 -   [[Animal Handling]]
 -   [[Insight]]
@@ -61,16 +61,16 @@ The skills related to each ability score are shown in the following list. (No sk
 -   [[Perception]]
 -   [[Survival]]
 
-### [[6-Charisma|Charisma]]
+### [[4-Charisma|Charisma]]
 
 -   [[Deception]]
 -   [[Intimidation]]
 -   [[Performance]]
 -   [[Persuasion]]
 
-Sometimes, the GM might ask for an ability check using a specific skill--for example, “Make a [[5-Wisdom|Wisdom]] ([[Perception]]) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the GM might ask for an ability check using a specific skill--for example, “Make a [[3-Intelligence|Intelligence]] ([[Perception]]) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
-For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a [[1-Strength|Strength]] ([[Athletics]]) check. If the character is proficient in [[Athletics]], the character's proficiency bonus is added to the [[1-Strength|Strength]] check. If the character lacks that proficiency, he or she just makes a [[1-Strength|Strength]] check.
+For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a [[3-Constitution|Constitution]] ([[Athletics]]) check. If the character is proficient in [[Athletics]], the character's proficiency bonus is added to the [[3-Constitution|Constitution]] check. If the character lacks that proficiency, he or she just makes a [[3-Constitution|Constitution]] check.
 
 ### Expertise
 Characters can only add their proficiency bonus to a single roll once unless a feature states otherwise. When a feature says a character gains expertise in a skill, tool, or other ability that they could have proficiency in, they have the ability to add their proficiency bonus to the roll twice.
@@ -79,7 +79,7 @@ Characters should never add their proficiency bonus to a single roll more than t
 
 ### Skills with Different Abilities
 
-Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in [[Athletics]], for example, usually applies to [[1-Strength|Strength]] checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a [[3-Constitution|Constitution]] check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in [[Athletics]] and ask for a [[3-Constitution|Constitution]] ([[Athletics]]) check. So if you're proficient in [[Athletics]], you apply your proficiency bonus to the [[3-Constitution|Constitution]] check just as you would normally do for a [[1-Strength|Strength]] ([[Athletics]]) check. Similarly, when your half‑orc barbarian uses a display of raw [[1-Strength|strength]] to intimidate an enemy, your GM might ask for a [[1-Strength|Strength]] ([[Intimidation]]) check, even though [[Intimidation]] is normally associated with [[6-Charisma|Charisma]].
+Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in [[Athletics]], for example, usually applies to [[3-Constitution|Constitution]] checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim fr[[1-Constitution|Constitution]]inland, your GM might call for a [[3-Constitution|Constitution]] check to see if you have the stamina to make it that far. In this case, your GM might all[[1-Constitution|Constitution]]y in [[Athletics]] and ask for a [[3-Constitution|Constitution]] ([[Athletics]]) check. So if you're profi[[1-Constitution|Constitution]]ly your proficiency bonus to the [[3-Constitution|Constitution]] check just as you would normally do for a [[3-Constitution|Constitution]] ([[Athletics]]) check. Similarly, when your half‑orc barbarian uses a display of raw [[1-Strength|strength]] to intimidate an enemy, your GM might ask for a [[3-Constitution|Constitution]] ([[Intimidation]]) check, even though [[Intimidation]] is normally associated with [[4-Charisma|Charisma]].
 
 ## Passive Checks
 
@@ -91,7 +91,7 @@ Here's how to determine a character's total for a passive check:
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 
-For example, if a 1st-level character has a [[5-Wisdom|Wisdom]] of 15 and proficiency in [[Perception]], he or she has a passive [[5-Wisdom|Wisdom]] ([[Perception]]) score of 14.
+For example, if a 1st-level character has a [[3-Intelligence|Intelligence]] of 15 and proficiency in [[Perception]], he or she has a passive [[3-Intelligence|Intelligence]] ([[Perception]]) score of 14.
 
 The rules on hiding in the “[[2-Dexterity|Dexterity]]” section below rely on passive checks, as do the exploration rules.
 
@@ -107,4 +107,4 @@ When a number of individuals are trying to accomplish something as a group, the 
 
 To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds.
 
-Otherwise, the group fails. Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group [[5-Wisdom|Wisdom]] ([[Survival]]) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+Otherwise, the group fails. Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group [[3-Intelligence|Intelligence]] ([[Survival]]) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.

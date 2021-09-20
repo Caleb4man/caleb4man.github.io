@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (an item distasteful to the target)
 - **Duration:** Concentration, up to 1 minute
 ---
-You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a [[6-Charisma|Charisma]] saving throw or be banished.
+You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a [[4-Charisma|Charisma]] saving throw or be banished.
 
 If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 

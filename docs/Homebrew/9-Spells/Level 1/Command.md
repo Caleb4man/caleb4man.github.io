@@ -9,7 +9,7 @@ ___
 - **Components:** V, S
 - **Duration:** 1 round
 ---
-You speak a command of a single word to a creature you can see within range. The target must succeed on a [[5-Wisdom|Wisdom]] saving throw or follow the command to the best of its ability on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.
+You speak a command of a single word to a creature you can see within range. The target must succeed on a [[6-Charisma|Charisma]] saving throw or follow the command to the best of its ability on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.
 
 Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can't follow your command, the spell ends.
 

@@ -2,7 +2,7 @@
 Tags: [background/species]
 ---
 ### Dwarf
-- ***Ability Scores:*** [[3-Constitution|Constitution]] +1
+- ***Ability Scores:*** [[1-Constitution|Constitution]] +1
 - ***Size:*** Medium
 - ***Speed.*** Your speed is decreased by 5 feet. Your speed is not reduced by wearing heavy armor.
 - ***Tremorsense.*** Adapted to life underground, you have keen awareness of the movements of the ground. You have tremorsense out to a range of 30 feet.

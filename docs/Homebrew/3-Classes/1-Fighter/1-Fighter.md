@@ -34,8 +34,8 @@ As a fighter, you gain the following class features.
 #### Hit Points
 ___
 - **Hit Dice:** 1d10 per fighter level
-- **Hit Points at 1st Level:** 10 + your [[3-Constitution|Constitution]] modifier
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your [[3-Constitution|Constitution]] modifier per fighter level after 1st
+- **Hit Points at 1st Level:** 10 + your [[1-Constitution|Constitution]] modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your [[1-Constitution|Constitution]] modifier per fighter level after 1st
 
 #### Proficiencies
 ___
@@ -44,7 +44,7 @@ ___
 - **Tools:** none
 
 ___
-- **Saving Throws:** [[1-Strength|Strength]], [[3-Constitution|Constitution]]
+- **Saving Throws:** [[3-Constitution|Constitu[[1-Constitution|Constitution]]tution]]
 - **Skills:** Choose two from [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Perception]], and [[Survival]]
 
 #### Equipment
@@ -65,7 +65,7 @@ Maneuvers use different amounts of time to use. Many maneuvers take 1 attack, wh
 
 ***Saving Throws.*** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
-**Maneuver save DC** = 8 + your proficiency bonus + your [[1-Strength|Strength]] or [[2-Dexterity|Dexterity]] modifier (your choice)
+**Maneuver save DC** = 8 + your proficiency bonus + your [[3-Constitution|Constitution]] or [[2-Dexterity|Dexterity]] modifier (your choice)
 
 ### Exploits
 Exploits are special maneuvers, powered by superiority dice. At 2nd level, you learn 2 exploits, and learn more as you gain levels, as shown in the Fighter table.
@@ -86,7 +86,7 @@ When an blitz calls for a saving throw to resist the blitz's effects, use your M
 
 > ##### Multiclassing
 >
-> Ability Score Minimum: [[1-Strength|Strength]] 13 or [[2-Dexterity|Dexterity]] 13
+> Ability Score Minimum: [[3-Constitution|Constitution]] 13 or [[2-Dexterity|Dexterity]] 13
 >
 > When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 >

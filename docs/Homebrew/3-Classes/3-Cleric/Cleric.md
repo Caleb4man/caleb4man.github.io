@@ -11,14 +11,14 @@ As a cleric, you gain the following class features.
 
 #### Hit Points
 - **Hit Dice:** 1d8 per cleric level
-- **Hit Points at 1st Level:** 8 + your [[3-Constitution|Constitution]] modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your [[3-Constitution|Constitution]] modifier per cleric level after 1st
+- **Hit Points at 1st Level:** 8 + your [[1-Constitution|Constitution]] modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your [[1-Constitution|Constitution]] modifier per cleric level after 1st
 
 #### Proficiencies
 **Armor:** [[Light armor]], [[medium armor]], [[shields]]
 **Weapons:** [[Simple weapon]]s
 **Tools:** None
-**Saving Throws:** [[5-Wisdom|Wisdom]], [[6-Charisma|Charisma]]
+**Saving Throws:** [[3-Intelligence|Intelligence]], [[4-Charisma|Charisma]]
 **Skills:** Choose two from [[History]], [[Insight]], [[Medicine]], [[Persuasion]], and [[Religion]].
 
 #### Equipment
@@ -76,18 +76,18 @@ At 1st level, you know three cantrips of your choice from the [[cleric spell lis
 
 The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the [[cleric spell list]]. When you do so, choose a number of cleric spells equal to your [[5-Wisdom|Wisdom]] modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots or lower.
+You prepare the list of cleric spells that are available for you to cast, choosing from the [[cleric spell list]]. When you do so, choose a number of cleric spells equal to your [[3-Intelligence|Intelligence]] modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots or lower.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a [[5-Wisdom|Wisdom]] of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *[[cure wounds]]*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a [[3-Intelligence|Intelligence]] of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *[[cure wounds]]*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 #### Spellcasting Ability
 
-[[5-Wisdom|Wisdom]] is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your [[5-Wisdom|Wisdom]] whenever a cleric spell refers to your spellcasting ability. In addition, you use your [[5-Wisdom|Wisdom]] modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+[[3-Intelligence|Intelligence]] is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your [[3-Intelligence|Intelligence]] whenever a cleric spell refers to your spellcasting ability. In addition, you use your [[3-Intelligence|Intelligence]] modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your [[5-Wisdom|Wisdom]] modifier
-**Spell attack modifier** = your proficiency bonus + your [[5-Wisdom|Wisdom]] modifier
+**Spell save DC** = 8 + your proficiency bonus + your [[3-Intelligence|Intelligence]] modifier
+**Spell attack modifier** = your proficiency bonus + your [[3-Intelligence|Intelligence]] modifier
 
 #### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
@@ -113,7 +113,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 #### Channel Divinity: Turn Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a [[5-Wisdom|Wisdom]] saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a [[4-Charisma|Charisma]] saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 

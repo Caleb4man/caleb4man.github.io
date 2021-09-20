@@ -4,13 +4,24 @@ Tags: AbilityScore
 ---
 # Constitution
 
-Constitution measures health, stamina, and vital force.
+Constitution measures strength, health, stamina, and vital force.
 
 ## Constitution Checks
 
-Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
+Constitution Checks measure 
 
-The GM might call for a Constitution check when you try to accomplish tasks like the following:
+A Constitution check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The [[Athletics]] skill reflects aptitude in certain kinds of Constitution checks.
+
+![[Athletics]]
+
+**Other Strength Checks.** The GM might also call for a Constitution check when you try to accomplish tasks like the following:
+
+-   Force open a stuck, locked, or barred door
+-   Break free of bonds
+-   Push through a tunnel that is too small
+-   Hang on to a wagon while being dragged behind it
+-   Tip over a statue
+-   Keep a boulder from rolling
 
 -   Hold your breath
 -   March or labor for hours without rest

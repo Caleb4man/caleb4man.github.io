@@ -8,17 +8,17 @@ ___
 ---
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
-***Bear's Endurance.*** The target has advantage on [[3-Constitution|Constitution]] checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+***Bear's Endurance.*** The target has advantage on [[1-Constitution|Constitution]] checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
 
-***Bull's [[1-Strength|Strength]].*** The target has advantage on [[1-Strength|Strength]] checks, and his or her carrying capacity doubles.
+***Bull's [[3-Constitution|Constitution]].*** The target has advantage on [[3-Constitution|Constitution]] checks, and his or her carrying capacity doubles.
 
 ***Cat's Grace.*** The target has advantage on [[2-Dexterity|Dexterity]] checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
 
-***Eagle's Splendor.*** The target has advantage on [[6-Charisma|Charisma]] checks.
+***Eagle's Splendor.*** The target has advantage on [[4-Charisma|Charisma]] checks.
 
-***Fox's Cunning.*** The target has advantage on [[4-Intelligence|Intelligence]] checks, and can perfectly recall anything that has happened in the past 24 hours.
+***Fox's Cunning.*** The target has advantage on [[3-Intelligence|Intelligence]] checks, and can perfectly recall anything that has happened in the past 24 hours.
 
-***Owl's [[5-Wisdom|Wisdom]].*** The target has advantage on [[5-Wisdom|Wisdom]] checks, and knows the type of any creature they can see.
+***Owl's [[3-Intelligence|Intelligence]].*** The target has advantage on [[3-Intelligence|Intelligence]] checks, and knows the type of any creature they can see.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 

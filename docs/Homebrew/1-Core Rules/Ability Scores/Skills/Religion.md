@@ -1,1 +1,1 @@
-**Religion.** Your [[4-Intelligence|Intelligence]] (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+**Religion.** Your [[3-Intelligence|Intelligence]] (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.

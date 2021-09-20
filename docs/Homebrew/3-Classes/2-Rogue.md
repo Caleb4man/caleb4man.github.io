@@ -11,14 +11,14 @@ As a rogue, you gain the following class features.
 
 #### Hit Points
 - **Hit Dice:** 1d8 per rogue level
-- **Hit Points at 1st Level:** 8 + your [[3-Constitution|Constitution]] modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your [[3-Constitution|Constitution]] modifier per rogue level after 1st
+- **Hit Points at 1st Level:** 8 + your [[1-Constitution|Constitution]] modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your [[1-Constitution|Constitution]] modifier per rogue level after 1st
 
 #### Proficiencies
 **Armor:** [[Light armor]]
 **Weapons:** [[Simple weapons]]
 **Tools:** [[Thieves' tools]]
-**Saving Throws:** [[2-Dexterity|Dexterity]], [[4-Intelligence|Intelligence]]
+**Saving Throws:** [[2-Dexterity|Dexterity]], [[3-Intelligence|Intelligence]]
 **Skills:** Choose two from from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]].
 
 #### Equipment

@@ -1,6 +1,6 @@
 #### Ritual Caster
 
-_Prerequisite: [[4-Intelligence|Intelligence]] or [[5-Wisdom|Wisdom]] 13 or higher_
+_Prerequisite: [[3-Intelligence|Intelligence]] or [[4-Intelligence|Intelligence]] 13 or higher_
 
 ---
 

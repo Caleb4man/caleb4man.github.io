@@ -34,8 +34,8 @@ As a sorcerer, you gain the following class features.
 #### Hit Points
 ___
 - **Hit Dice:** 1d6 per sorcerer level
-- **Hit Points at 1st Level:** 6 + your [[3-Constitution|Constitution]] modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your [[3-Constitution|Constitution]] modifier per sorcerer level after 1st
+- **Hit Points at 1st Level:** 6 + your [[1-Constitution|Constitution]] modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your [[1-Constitution|Constitution]] modifier per sorcerer level after 1st
 
 #### Proficiencies
 ___
@@ -44,7 +44,7 @@ ___
 - **Tools:** None
 
 ___
-- **Saving Throws:** [[3-Constitution|Constitution]], [[6-Charisma|Charisma]]
+- **Saving Throws:** [[1-Constitution|Constitution]], [[4-Charisma|Charisma]]
 - **Skills:** Choose two from [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], and [[Religion]]
 
 #### Equipment
@@ -83,12 +83,12 @@ The Spells Known column of the sorcerer table shows when you learn more sorcerer
 Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the [[sorcerer spell list]], which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
-[[6-Charisma|Charisma]] is your spellcasting ability for your sorcerer spells, so you use your [[6-Charisma|Charisma]] whenever a spell refers to your spellcasting ability. In addition, you use your [[6-Charisma|Charisma]] modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+[[4-Charisma|Charisma]] is your spellcasting ability for your sorcerer spells, so you use your [[4-Charisma|Charisma]] whenever a spell refers to your spellcasting ability. In addition, you use your [[4-Charisma|Charisma]] modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
 
-**Spell save DC** = 8 + your proficiency bonus + your [[6-Charisma|Charisma]] modifier
+**Spell save DC** = 8 + your proficiency bonus + your [[4-Charisma|Charisma]] modifier
 
-**Spell attack modifier** = your proficiency bonus + your [[6-Charisma|Charisma]] modifier
+**Spell attack modifier** = your proficiency bonus + your [[4-Charisma|Charisma]] modifier
 
 #### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your sorcerer spells.
@@ -122,7 +122,7 @@ When you cast the spell, you can choose one of the normal forms for your familia
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
 #### Arcane Object
-Your magic materializes as an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your [[6-Charisma|charisma]] modifier, and all expended uses are restored when you finish a long rest.
+Your magic materializes as an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your [[4-Charisma|charisma]] modifier, and all expended uses are restored when you finish a long rest.
 
 If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
 
@@ -174,7 +174,7 @@ Beginning at 18th level, the harmful energy of your spells intensifies. When you
 ### Dragon Ancestor
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-You can speak, read, and write Draconic. Additionally, whenever you make a [[6-Charisma|Charisma]] check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+You can speak, read, and write Draconic. Additionally, whenever you make a [[4-Charisma|Charisma]] check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
 ### Draconic Resilience
 As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
@@ -187,7 +187,7 @@ At 14th level, you gain the ability to sprout a pair of dragon wings from your b
 You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
 ### Draconic Presence
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a [[5-Wisdom|Wisdom]] saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a [[4-Charisma|Charisma]] saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
 
 [[Sorcerer Spell List]]

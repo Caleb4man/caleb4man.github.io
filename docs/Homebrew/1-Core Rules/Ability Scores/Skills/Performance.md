@@ -1,1 +1,1 @@
-**Performance.** Your [[6-Charisma|Charisma]] (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+**Performance.** Your [[4-Charisma|Charisma]] (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.

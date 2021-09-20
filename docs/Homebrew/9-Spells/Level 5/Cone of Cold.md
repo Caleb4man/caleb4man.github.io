@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (a small crystal or glass cone)
 - **Duration:** Instantaneous
 ---
-A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a [[3-Constitution|Constitution]] saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.
+A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a [[1-Constitution|Constitution]] saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
