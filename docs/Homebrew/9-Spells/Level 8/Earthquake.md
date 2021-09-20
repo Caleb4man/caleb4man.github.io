@@ -8,7 +8,7 @@ ___
 ---
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's concentration is broken.
+The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a [[3-Constitution|Constitution]] saving throw. On a failed save, the creature's concentration is broken.
 
 When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a [[2-Dexterity|Dexterity]] saving throw. On a failed save, the creature is knocked prone.
 

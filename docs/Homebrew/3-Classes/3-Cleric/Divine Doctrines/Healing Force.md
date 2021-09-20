@@ -1,3 +1,3 @@
 ### Healing Force
 #choicefeature/divinedoctrine
-When you use your action to cast a spell of 1st level or higher to restore hit points to a creature, you can use your bonus action to restore hit points equal to your Wisdom modifier to one creature within 5 feet of the target. You can use this feature a number of times equal to your Wisdom modifier. You regain all expended uses when you complete a short or long rest.
+When you use your action to cast a spell of 1st level or higher to restore hit points to a creature, you can use your bonus action to restore hit points equal to your [[5-Wisdom|Wisdom]] modifier to one creature within 5 feet of the target. You can use this feature a number of times equal to your [[5-Wisdom|Wisdom]] modifier. You regain all expended uses when you complete a short or long rest.

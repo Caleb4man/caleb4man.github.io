@@ -13,7 +13,7 @@ The DM also tells you if the creature is your equal, superior, or inferior in re
 
 * [[1-Strength|Strength]] score
 * [[2-Dexterity|Dexterity]] score
-* Constitution score
+* [[3-Constitution|Constitution]] score
 * Armor Class
 * Current hit points
 * Total class levels, if any
