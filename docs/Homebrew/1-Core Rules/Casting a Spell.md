@@ -18,7 +18,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 ### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so. If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
+Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your [[Concentration]] while you do so. If your [[Concentration]] is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
 
 ### Casting Multiple Spells on a Turn
 When you cast a spell of 1st level or higher on your turn in combat, you cannot cast another spell on the same turn unless it is a cantrip.
@@ -59,22 +59,22 @@ A spell's duration is the length of time the spell persists. A duration can be e
 
 Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can't be dispelled, because its magic exists only for an instant.
 
-### Concentration
+### [[Concentration]]
 
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+Some spells require you to maintain [[Concentration]] in order to keep their magic active. If you lose [[Concentration]], such a spell ends.
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+If a spell must be maintained with [[Concentration]], that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [[Concentration]] at any time (no action required).
 
-Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
+Normal activity, such as moving and attacking, doesn't interfere with [[Concentration]]. The following factors can break [[Concentration]]:
 
--   **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
+-   **Casting another spell that requires [[Concentration]].** You lose [[Concentration]] on a spell if you cast another spell that requires [[Concentration]]. You can't concentrate on two spells at once.
     
--   **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a [[1-Constitution|Constitution]] saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+-   **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a [[1-Constitution|Constitution]] saving throw to maintain your [[Concentration]]. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
     
--   **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+-   **Being incapacitated or killed.** You lose [[Concentration]] on a spell if you are incapacitated or if you die.
     
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 [[1-Constitution|Constitution]] saving throw to maintain concentration on a spell.
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 [[1-Constitution|Constitution]] saving throw to maintain [[Concentration]] on a spell.
 
 ## Targets
 

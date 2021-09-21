@@ -2,7 +2,7 @@
 Tags: [background/species]
 ---
 ### Elf
-- ***Ability Scores:*** [[4-Intelligence|Intelligence]] +1
+- ***Ability Scores:*** [[3-Intelligence|Intelligence]] +1
 - ***Size:*** Medium
 - ***Darkvision.*** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - ***Trance.*** Elves don't need to sleep, and can never be put to sleep. Instead, they meditate deeply for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you consciously work through the events of the previous day. After resting in this way, you gain the same benefit that a [[human]] does from 8 hours of sleep.

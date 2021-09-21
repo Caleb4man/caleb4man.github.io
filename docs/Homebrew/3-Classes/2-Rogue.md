@@ -19,7 +19,7 @@ As a rogue, you gain the following class features.
 **Weapons:** [[Simple weapons]]
 **Tools:** [[Thieves' tools]]
 **Saving Throws:** [[2-Dexterity|Dexterity]], [[3-Intelligence|Intelligence]]
-**Skills:** Choose two from from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]].
+**Skills:** Choose from [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Performance]], [[Persuasion]], [[Sleight of Hand]], and [[Stealth]].
 
 #### Equipment
 
@@ -98,7 +98,7 @@ At 11th level, choose two skills for which you are proficient. Whenever you make
 At 14th level, you can choose a [[Fighting Style]] from the following list: [[Dueling]], [[Archery]], [[Two-Weapon Fighting]], [[Blind Fighting]], [[Thrown Weapon Fighting]], [[]]
 
 ### Slippery
-By 15th level, you have acquired greater strength over your senses. You gain proficiency in [[Consititution]] saving throws, [[Wisdom]] saving throws, or you can add twice your proficiency bonus to [[Dexterity]] saving throws.
+By 15th level, you have acquired greater strength over your senses. You gain proficiency in [[Consititution]] saving throws, [[Intelligence]] saving throws, or you can add twice your proficiency bonus to [[Dexterity]] saving throws.
 
 ### Elusive
 Beginning at 18th level, choose one of the following features. 

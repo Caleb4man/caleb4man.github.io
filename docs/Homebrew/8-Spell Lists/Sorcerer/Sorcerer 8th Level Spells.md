@@ -1,7 +1,7 @@
 ---
 Aliases: SorcererSpells8
 ---
-## Sorcerer 8th Level Spells
+## [[Sorcerer]] 8th Level Spells
 [[Dominate Monster]]
 [[Earthquake]]
 [[Incendiary Cloud]]

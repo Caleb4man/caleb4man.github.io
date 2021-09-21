@@ -2,32 +2,34 @@
 Aliases: Fighter
 ---
 # Fighter
-This fighter is designed for a specific type of player who enjoys a more technical style of play. As it stands, the Fighter is a lackluster class for this, but the 4th edition fighter did this well. In order to bring some of the magic back from the old 4e days, I present to you the (Nerd) Fighter, an optional alternative to the fighter for a more complex playstyle.
 
 ##### The Fighter
-| Level | Proficiency Bonus | Features                                 | Maneuvers Known | Superiority Dice | Exploits Known | Blitzes Known |
+| Level | Proficiency Bonus | Features                                 | [[Maneuvers]] Known | Superiority Dice | [[Exploits]] Known | [[Blitzes]] Known |
 |:-----:|:-----------------:|:---------------------------------------- |:---------------:|:----------------:|:--------------:|:-------------:|
-|  1st  |        +2         | Maneuvers                                |        4        |        —         |       —        |       —       |
-|  2nd  |        +2         | Exploits, Jack of All Trades             |        4        |        1         |       2        |       —       |
-|  3rd  |        +2         | Subclass Feature                         |        4        |        2         |       2        |       —       |
-|  4th  |        +2         | Ability Score Improvement                |        4        |        2         |       2        |       —       |
-|  5th  |        +3         | Extra Attack                             |        5        |        3         |       3        |       —       |
-|  6th  |        +3         | Superiority (d8)                         |        5        |        3         |       3        |       —       |
-|  7th  |        +3         | Subclass Feature                         |        5        |        4         |       4        |       —       |
-|  8th  |        +3         | Ability Score Improvement                |        5        |        4         |       4        |       —       |
-|  9th  |        +4         | Indomitable                              |        6        |        5         |       5        |       —       |
-| 10th  |        +4         | Extra Attack (2), Superiority (d10)      |        6        |        5         |       5        |       —       |
-| 11th  |        +4         | Blitz                                    |        6        |        6         |       5        |       1       |
-| 12th  |        +4         | Ability Score Improvement                |        6        |        6         |       6        |       1       |
-| 13th  |        +5         | Action Surge (1)                         |        7        |        7         |       6        |       2       |
-| 14th  |        +5         | Indomitable (2)                          |        7        |        7         |       6        |       2       |
-| 15th  |        +5         | Superiority Dice (d12), Subclass Feature |        7        |        8         |       7        |       3       |
-| 16th  |        +5         | Ability Score Improvement                |        7        |        8         |       7        |       3       |
-| 17th  |        +6         | Blitz Recovery                           |        8        |        9         |       7        |       4       |
-| 18th  |        +6         | Action Surge (2)                         |        8        |        9         |       8        |       4       |
-| 19th  |        +6         | Ability Score Improvement                |        8        |        10        |       8        |       5       |
-| 24th  |        +6         | Feat                                     |        8        |        10        |       8        |       5       |
-| 20th  |        +6         | Extra Attack (3)                         |        8        |        10        |       8        |       5       |
+|  1st  |        +2         | [[Maneuvers]]                                |        2        |        —         |       —        |       —       |
+|  2nd  |        +2         | [[Exploits]], Jack of All Trades             |        2        |        1         |       2        |       —       |
+|  3rd  |        +2         | Subclass Feature                         |        2        |        2         |       2        |       —       |
+|  4th  |        +2         | Ability Score Improvement                |        2        |        2         |       2        |       —       |
+|  5th  |        +3         | Feat                                     |        2        |        2         |       2        |       -       |
+|  6th  |        +3         | Extra Attack                             |        2        |        3         |       3        |       —       |
+|  7th  |        +3         | Superiority (d8)                         |        3        |        3         |       3        |       —       |
+|  8th  |        +3         | Subclass Feature                         |        3        |        4         |       4        |       —       |
+|  9th  |        +3         | Ability Score Improvement                |        3        |        4         |       4        |       —       |
+| 10th  |        +4         | Feat                                     |        3        |        4         |       4        |       -       |
+| 11th  |        +4         | Indomitable                              |        3        |        5         |       5        |       —       |
+| 12th  |        +4         | Extra Attack (2), Superiority (d10)      |        4        |        5         |       5        |       —       |
+| 13th  |        +4         | Blitz                                    |        4        |        6         |       5        |       1       |
+| 14th  |        +4         | Ability Score Improvement                |        4        |        6         |       6        |       1       |
+| 15th  |        +5         | Action Surge (1)                         |        4        |        7         |       6        |       2       |
+| 16th  |        +5         | Indomitable (2)                          |        5        |        7         |       6        |       2       |
+| 17th  |        +5         | Superiority Dice (d12), Subclass Feature |        5        |        8         |       7        |       3       |
+| 18th  |        +5         | Ability Score Improvement                |        5        |        8         |       7        |       3       |
+| 19th  |        +6         | Feat                                     |        5        |        8         |       7        |       3       |
+| 19th  |        +6         | Blitz Recovery                           |        6        |        9         |       7        |       3       |
+| 20th  |        +6         | Action Surge (2)                         |        6        |        9         |       8        |       3       |
+| 19th  |        +6         | Ability Score Improvement                |        6        |        10        |       8        |       3       |
+| 24th  |        +6         | Feat                                     |        6        |        10        |       8        |       3       |
+| 25th  |        +6         | Extra Attack (3)                         |        6        |        10        |       8        |       3       |
 
 ## Class Features
 As a fighter, you gain the following class features.
@@ -44,8 +46,8 @@ ___
 - **Tools:** none
 
 ___
-- **Saving Throws:** [[3-Constitution|Constitu[[1-Constitution|Constitution]]tution]]
-- **Skills:** Choose two from [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Perception]], and [[Survival]]
+- **Saving Throws:** [[1-Constitution|Constitution]], [[2-Dexterity|Dexterity]]
+- **Skills:** Choose from [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Perception]], and [[Survival]]
 
 #### Equipment
 You start with the following items, plus anything provided by your background.
@@ -57,18 +59,21 @@ You start with the following items, plus anything provided by your background.
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
-### Maneuvers
-Maneuvers are what differentiate a trained fighter from the common warrior. At 1st level, you learn 4 maneuvers, and you learn more as you gain levels, as shown in the Fighter table.
-You use maneuvers when you take the attack action, and you cannot use a maneuver when you are using an exploit or a blitz (detailed later in this description).
+### [[Maneuvers]]
+[[Maneuvers]] are what differentiate a trained fighter from the common warrior. At 1st level, you learn 2 [[maneuvers]], and you learn more as you gain levels, as shown in the Fighter table.
+You use [[maneuvers]] when you take the attack action, and you cannot use a maneuver when you are using an exploit or a blitz (detailed later in this description).
 
-Maneuvers use different amounts of time to use. Many maneuvers take 1 attack, which is a part of the attack action, but can also be used on bonus action attacks. Others take 1 action, and generally detail different circumstances for an attack action therein. This still counts as an attack action. You take an action while using a maneuver unless the maneuver states otherwise.
+[[Maneuvers]] use different amounts of time to use. Many [[maneuvers]] take 1 attack, which is a part of the attack action, but can also be used on bonus action attacks. Others take 1 action, and generally detail different circumstances for an attack action therein. This still counts as an attack action. You take an action while using a maneuver unless the maneuver states otherwise.
 
-***Saving Throws.*** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+***Saving Throws.*** Some of your [[maneuvers]] require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
-**Maneuver save DC** = 8 + your proficiency bonus + your [[3-Constitution|Constitution]] or [[2-Dexterity|Dexterity]] modifier (your choice)
+**Maneuver save DC** = 8 + your proficiency bonus + your [[1-Constitution|Constitution]] or [[2-Dexterity|Dexterity]] modifier (your choice)
 
-### Exploits
-Exploits are special maneuvers, powered by superiority dice. At 2nd level, you learn 2 exploits, and learn more as you gain levels, as shown in the Fighter table.
+### Jack of All Trades
+When you make an ability check or attack roll where you do not add your proficiency bonus, you can add half your proficiency bonus (rounded down) to that roll.
+
+### [[Exploits]]
+[[Exploits]] are special [[maneuvers]], powered by superiority dice. At 2nd level, you learn 2 [[exploits]], and learn more as you gain levels, as shown in the Fighter table.
 You cannot use an Exploit at the same time you use a Maneuver.
 
 When an exploit calls for a saving throw to resist the exploit's effects, use your Maneuver saving throw DC.
@@ -76,8 +81,8 @@ When an exploit calls for a saving throw to resist the exploit's effects, use yo
 ***Superiority Dice.*** You have 1 superiority die, which is a d6. You regain all expended superiority dice when you finish a short or long rest. You gain more superiority dice at different levels, shown in the Fighter table.
 
 
-### Blitzes
-Blitzes represent the ability to pull the pinnacle of combat strength for a moment. 
+### [[Blitzes]]
+[[Blitzes]] represent the ability to pull the pinnacle of combat [[1-Strength|strength]] for a moment. 
 
 At 11th level, you learn 1 blitz, and learn more as you gain levels, as shown in the Fighter table. You can use each blitz you know once, and you gain the ability to use them again after a long rest. You may choose the same blitz multiple times. If you do so, you can use that blitz up to the number of times that you selected that blitz.
 
@@ -86,7 +91,7 @@ When an blitz calls for a saving throw to resist the blitz's effects, use your M
 
 > ##### Multiclassing
 >
-> Ability Score Minimum: [[3-Constitution|Constitution]] 13 or [[2-Dexterity|Dexterity]] 13
+> Ability Score Minimum: [[1-Constitution|Constitution]] 13 or [[2-Dexterity|Dexterity]] 13
 >
 > When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 >
@@ -95,31 +100,6 @@ When an blitz calls for a saving throw to resist the blitz's effects, use your M
 > **Weapons:** simple weapons, martial weapons
 > 
 > 
-
-
-> ##### Attacks against many creatures
-> 
-> This document includes many situations where you have to make attacks against many creatures. As a result, this can become cumbersome for the party and slow down combat.
-> 
-> Instead, consider this alternative rule. It is still under assessment, so no promises about how effective it will be.
->
-> **Consistent attacker.** Make one attack roll against all creatures for that maneuver, exploit, or blitz. If you have advantage against half or more of those creatures, you have advantage on the attack roll. If you have disadvantage against one or more of those creatures, you have disadvantage on the attack roll. If you have advantage against more than half of your targets and disadvantage against at least one, these sources of advantage and disadvantage cancel each other out.
-
-> ##### Feats
-> Unlike normal fighters, this fighter does not gain so many Ability Score improvements. This helps alleviate, but does not solve the problem of feats breaking the power curve when they interact with this class.
-> 
-> As a result, use caution when allowing feats, and make these changes.
-> - Lucky: You cannot use Lucky while using the optional rule Consistent Attacker. 
-> - Fighting Initiate: Because fighting styles no longer exist, this could cause problems with synergies getting out of hand. Consider this optional rule:
->  - When you take Fighting Initiate, you learn one maneuver of your choice from the Fighter class. You must follow all other rules about using maneuvers from the fighter class.
-> 
-> From Xanathar's Guide to Everything:
-> - Orcish Fury: Rerolling a damage die counts as an Exploit, and so is incompatible with Maneuvers, other Exploits, and Blitzes.
-> 
-> In addition, the following feats from Tasha's Cauldron of Everything need some changes.
-> - Crusher: Moving a creature 5 feet after a hit counts as a maneuver, and so is incompatible with other Maneuvers, Exploits, and Blitzes.
-> - Piercer: Rerolling a damage die after an attack hits counts as a maneuver, and so is incompatible with other Maneuvers, Exploits, and Blitzes.
-> - Slasher: Decreasing a target's speed by 10 feet counts as a maneuver, and so is incompatible with other Maneuvers, Exploits, and Blitzes.
 
 
 ![[Battlemaster]]

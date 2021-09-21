@@ -1,1 +1,1 @@
-**Survival.** The GM might ask you to make a [[4-Intelligence|Intelligence]] (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+**Survival.** The GM might ask you to make a [[3-Intelligence|Intelligence]] (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.

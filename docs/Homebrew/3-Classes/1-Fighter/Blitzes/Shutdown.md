@@ -5,3 +5,4 @@ ___
 - **Duration:** 1 minute
 
 Make a standard attack action. Each target you hit with these attacks must succeed on a [[1-Constitution|Constitution]] saving throw or be stunned for the duration.
+At the end of their turn, a creature affected by this blitz can repeat this saving throw, ending its affect on a success.

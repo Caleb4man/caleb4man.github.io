@@ -1,3 +1,6 @@
+---
+Tags: SpellList
+---
 ## Spell List: [[Sorcerer]]
 ![[Sorcerer Cantrips]]
 ![[Sorcerer 1st Level Spells]]

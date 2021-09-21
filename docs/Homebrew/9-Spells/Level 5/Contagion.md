@@ -12,9 +12,9 @@ At the end of each of the poisoned target's turns, the target must make a [[1-Co
 
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
-***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on [[3-Intelligence|Intelligence]] checks and [[4-Charisma|Charisma]] saving throws and is blinded.
+<!--***Blinding Sickness.*** Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on [[3-Intelligence\|Intelligence]] checks and [[4-Charisma\|Charisma]] saving throws and is [[Blinded]].-->
 
-***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has disadvantage on [[3-Constitution|Constitution]] checks, [[3-Constitution|Constitution]] saving throws, and attack rolls that use [[3-Constitution|Constitution]].
+***Filth Fever.*** A raging fever sweeps through the creature's body. The creature has disadvantage on [[1-Constitution|Constitution]] checks, [[1-Constitution|Constitution]] saving throws, and attack rolls that use [[1-Constitution|Constitution]].
 
 ***Flesh Rot.*** The creature's flesh decays. The creature has disadvantage on [[4-Charisma|Charisma]] checks and vulnerability to all damage.
 
@@ -22,4 +22,4 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ***Seizure.*** The creature is overcome with shaking. The creature has disadvantage on [[2-Dexterity|Dexterity]] checks, [[2-Dexterity|Dexterity]] saving throws, and attack rolls that use [[2-Dexterity|Dexterity]].
 
-***Slimy Doom.*** The creature begins to bleed uncontrol[[1-Constitution|Constitution]]ntage on [[3[[1-Constitution|Constitution]]ecks and [[3-Constitution|Constitution]] saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on [[1-Constitution|Constitution]] checks and [[1-Constitution|Constitution]] saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.

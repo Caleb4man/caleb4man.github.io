@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1d425f973a73d3",
+        "id": "9adcb1f830d177a4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1-Core Rules/Ability Scores/3-Intelligence.md",
-            "mode": "source"
-          }
-        }
+          "type": "empty",
+          "state": {}
+        },
+        "group": "7a73652e5b476483"
+      },
+      {
+        "id": "fb7d8f0efe6e153c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "7a73652e5b476483"
       }
     ],
     "direction": "vertical"
@@ -39,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#choicefeature/divinedoctrine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,14 +83,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Core Rules/Ability Scores/3-Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-Core Rules/Ability Scores/3-Intelligence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -114,9 +118,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Core Rules/Ability Scores/3-Intelligence.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -135,24 +138,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "bf131d04ba37102d",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0c1d425f973a73d3",
+  "active": "fb7d8f0efe6e153c",
   "lastOpenFiles": [
-    "1-Core Rules/Ability Scores/3-Intelligence.md",
-    "Trash/5-Wisdom.md",
-    "1-Core Rules/Ability Scores/1-Constitution.md",
-    "Trash/1-Strength.md",
-    "6-Feats/Feats.md",
-    "1-Core Rules/Ability Scores/6-Charisma.md",
-    "1-Core Rules/Ability Scores/4-Intelligence.md",
-    "1-Core Rules/Ability Scores/3-Constitution.md",
-    "1-Core Rules/Ability Scores/2-Dexterity.md",
-    "1-Core Rules/Ability Scores/5-Wisdom.md"
+    "3-Classes/dagger.md",
+    "3-Classes/2-Rogue.md",
+    "7-Equipment/Weapons/Weapons.md",
+    "Conditions/Weapons.md",
+    "Conditions/Untitled.md",
+    "Conditions/Concentration.md",
+    "Conditions/Charmed.md",
+    "Conditions/Blinded.md",
+    "9-Spells/Level 5/Contagion.md",
+    "9-Spells/Level 1/Charm Person.md"
   ]
 }

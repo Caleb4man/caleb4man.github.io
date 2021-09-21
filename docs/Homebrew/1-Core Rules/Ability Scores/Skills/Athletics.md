@@ -1,4 +1,4 @@
-**Athletics.** Your [[3-Constitution|Constitution]] (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+**Athletics.** Your [[1-Constitution|Constitution]] (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
 
 -   You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
 -   You try to jump an unusually long distance or pull off a stunt midjump.

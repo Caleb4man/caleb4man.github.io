@@ -1,4 +1,5 @@
 ## Maneuvers
+[[Blind Fighting]]
 [[Dueling]]
 [[Cleave]]
 [[Distant Shot]]

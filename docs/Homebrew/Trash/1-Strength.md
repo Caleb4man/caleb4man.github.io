@@ -1,5 +1,4 @@
 ---
-Aliases: Strength
 Tags: AbilityScore
 ---
 # Strength

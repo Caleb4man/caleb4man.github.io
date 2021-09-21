@@ -1,3 +1,5 @@
+---
+Tags: ChoiceFeature/DivineDoctrine
+---
 ### Leech Life
-#choicefeature/divinedoctrine
-When you damage a creature with a melee weapon attack or melee spell attack, you can cause yourself or one creature within 5 feet of you regain hit points equal to your [[4-Intelligence|Intelligence]] modifier. You can use this feature a number of times equal to your [[4-Intelligence|Intelligence]] modifier. You regain all expended uses when you complete a long rest.
+When you damage a creature with a melee weapon attack or melee spell attack, you can cause yourself or one creature within 5 feet of you regain hit points equal to your [[3-Intelligence|Intelligence]] modifier. You can use this feature a number of times equal to your [[3-Intelligence|Intelligence]] modifier. You regain all expended uses when you complete a long rest.

@@ -1,7 +1,7 @@
 ---
 aliases: SorcererSpells3
 ---
-### Sorcerer 3rd Level Spells
+### [[Sorcerer]] 3rd Level Spells
 [[Blink]]
 [[Clairvoyance]]
 [[Counterspell]]

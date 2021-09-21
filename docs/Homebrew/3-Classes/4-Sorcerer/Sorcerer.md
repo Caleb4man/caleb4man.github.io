@@ -45,16 +45,14 @@ ___
 
 ___
 - **Saving Throws:** [[1-Constitution|Constitution]], [[4-Charisma|Charisma]]
-- **Skills:** Choose two from [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], and [[Religion]]
+- **Skills:** Choose from [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], and [[Religion]]
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- (a) a light crossbow and 20 bolts or (b) a sling
-- (a) a quarterstaff or (b) any simple weapon
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
-- Two daggers
-
-\page
+- (a) a [[light crossbow]] and 20 bolts or (b) a [[sling]]
+- (a) a [[quarterstaff]] or (b) any [[simple weapon]]
+- (a) a [[dungeoneer’s pack]] or (b) an [[explorer’s pack]]
+- Two [[dagger]]s
 
 ### Sorcerous Origin
 At 1st level, you choose the source of your arcane power from the following options: Wild Magic or Dragonblood, each of which is detailed at the end of this class.
@@ -156,7 +154,7 @@ At 20th level, you can draw on your inner reserve of mystical power to regain ex
 ### Wild Magic Surge
 Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.
 
-If it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration.
+If it normally requires [[Concentration]], it doesn't require [[Concentration]] in this case; the spell lasts for its full duration.
 
 
 ### Tides of Chaos
@@ -187,8 +185,8 @@ At 14th level, you gain the ability to sprout a pair of dragon wings from your b
 You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
 ### Draconic Presence
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a [[4-Charisma|Charisma]] saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your [[Concentration]] (as if you were casting a [[Concentration]] spell), each hostile creature that starts its turn in this aura must succeed on a [[4-Charisma|Charisma]] saving throw or be [[Charmed]] (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
 
-[[Sorcerer Spell List]]
+## [[Sorcerer Spell List]]
 

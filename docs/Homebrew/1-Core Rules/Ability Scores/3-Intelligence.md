@@ -16,7 +16,7 @@ An Intelligence check comes into play when you need to draw on logic, education,
 ![[Nature]]
 ![[Religion]]
 
-An Intelligence check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Intelligence checks.
+An Intelligence check might also reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Intelligence checks.
 
 ![[Animal Handling]]
 ![[Insight]]
@@ -26,13 +26,11 @@ An Intelligence check might reflect an effort to read body language, understand 
 
 **Other Intelligence Checks.** The GM might call for an Intelligence check when you try to accomplish tasks like the following:
 
--   Communicate with a creature without using words
 -   Estimate the value of a precious item
 -   Pull together a disguise to pass as a city guard
 -   Forge a document
 -   Recall lore about a craft or trade
 -   Win a game of skill
 
-## Spellcasting Ability
-
-Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+## Skills
+When you create your character, you become proficient in a number of skills from your class's skill list equal to your intelligence modifier (minimum of 1). If your intelligence increases or decreases to change your intelligence modifier permanently, you gain or lose proficiency in the appropriate number of skills.

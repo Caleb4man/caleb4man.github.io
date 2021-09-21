@@ -1,5 +1,7 @@
+---
+Tags: ChoiceFeature/DivineDoctrine
+---
 ### Planar Defender
-#choicefeature/divinedoctrine
 ***Prerequisite: 14th level [[Cleric]]***
 Your weapon attacks deal 1d8 additional force damage to celestials, fey, fiends, or undead. 
 

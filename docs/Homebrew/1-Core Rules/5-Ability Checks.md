@@ -35,7 +35,7 @@ For example, a [[2-Dexterity|Dexterity]] check might reflect a character's attem
 
 The skills related to each ability score are shown in the following list. (No skills are related to [[1-Constitution|Constitution]].) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-### [[3-Constitution|Constitution]]
+### [[1-Constitution|Constitution]]
 
 -   [[Athletics]]
 
@@ -70,7 +70,7 @@ The skills related to each ability score are shown in the following list. (No sk
 
 Sometimes, the GM might ask for an ability check using a specific skill--for example, “Make a [[3-Intelligence|Intelligence]] ([[Perception]]) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
-For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a [[3-Constitution|Constitution]] ([[Athletics]]) check. If the character is proficient in [[Athletics]], the character's proficiency bonus is added to the [[3-Constitution|Constitution]] check. If the character lacks that proficiency, he or she just makes a [[3-Constitution|Constitution]] check.
+For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a [[1-Constitution|Constitution]] ([[Athletics]]) check. If the character is proficient in [[Athletics]], the character's proficiency bonus is added to the [[1-Constitution|Constitution]] check. If the character lacks that proficiency, he or she just makes a [[1-Constitution|Constitution]] check.
 
 ### Expertise
 Characters can only add their proficiency bonus to a single roll once unless a feature states otherwise. When a feature says a character gains expertise in a skill, tool, or other ability that they could have proficiency in, they have the ability to add their proficiency bonus to the roll twice.
@@ -79,7 +79,7 @@ Characters should never add their proficiency bonus to a single roll more than t
 
 ### Skills with Different Abilities
 
-Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in [[Athletics]], for example, usually applies to [[3-Constitution|Constitution]] checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim fr[[1-Constitution|Constitution]]inland, your GM might call for a [[3-Constitution|Constitution]] check to see if you have the stamina to make it that far. In this case, your GM might all[[1-Constitution|Constitution]]y in [[Athletics]] and ask for a [[3-Constitution|Constitution]] ([[Athletics]]) check. So if you're profi[[1-Constitution|Constitution]]ly your proficiency bonus to the [[3-Constitution|Constitution]] check just as you would normally do for a [[3-Constitution|Constitution]] ([[Athletics]]) check. Similarly, when your half‑orc barbarian uses a display of raw [[1-Strength|strength]] to intimidate an enemy, your GM might ask for a [[3-Constitution|Constitution]] ([[Intimidation]]) check, even though [[Intimidation]] is normally associated with [[4-Charisma|Charisma]].
+Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in [[Athletics]], for example, usually applies to [[1-Constitution|Constitution]] checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim fr[[1-Constitution|Constitution]]inland, your GM might call for a [[1-Constitution|Constitution]] check to see if you have the stamina to make it that far. In this case, your GM might all[[1-Constitution|Constitution]]y in [[Athletics]] and ask for a [[1-Constitution|Constitution]] ([[Athletics]]) check. So if you're profi[[1-Constitution|Constitution]]ly your proficiency bonus to the [[1-Constitution|Constitution]] check just as you would normally do for a [[1-Constitution|Constitution]] ([[Athletics]]) check. Similarly, when your half‑orc barbarian uses a display of raw [[1-Strength|strength]] to intimidate an enemy, your GM might ask for a [[1-Constitution|Constitution]] ([[Intimidation]]) check, even though [[Intimidation]] is normally associated with [[4-Charisma|Charisma]].
 
 ## Passive Checks
 

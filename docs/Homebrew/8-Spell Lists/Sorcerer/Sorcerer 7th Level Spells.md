@@ -1,7 +1,7 @@
 ---
 Aliases: SorcererSpells7
 ---
-## Sorcerer 7th Level Spells
+## [[Sorcerer]] 7th Level Spells
 [[Delayed Blast Fireball]]
 [[Etherealness]]
 [[Finger of Death]]

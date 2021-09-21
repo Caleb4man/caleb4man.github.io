@@ -1,4 +1,4 @@
-## Sorcerer Cantrips
+## [[Sorcerer]] Cantrips
 [[Acid Splash]]
 [[Arcane Missile]]
 [[Chill Touch]]
