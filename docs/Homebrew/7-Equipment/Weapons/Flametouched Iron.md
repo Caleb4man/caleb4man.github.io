@@ -1,0 +1,1 @@
+***Flametouched Iron.*** This dark gray metal takes on a reddish sheen when refined. When used to attack an evil creature or an undead, a weapon made from flametouched iron is considered magical for the purposes of overcoming resistance and immunity to nonmagical damage. 

@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9adcb1f830d177a4",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "7a73652e5b476483"
-      },
-      {
         "id": "fb7d8f0efe6e153c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "7a73652e5b476483"
+          "type": "markdown",
+          "state": {
+            "file": "7-Equipment/Weapons/Weapons.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04addc853385561d",
@@ -83,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7-Equipment/Weapons/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7-Equipment/Weapons/Weapons.md"
+              }
             }
           },
           {
@@ -118,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7-Equipment/Weapons/Weapons.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,15 +155,15 @@
   },
   "active": "fb7d8f0efe6e153c",
   "lastOpenFiles": [
-    "3-Classes/dagger.md",
-    "3-Classes/2-Rogue.md",
     "7-Equipment/Weapons/Weapons.md",
-    "Conditions/Weapons.md",
-    "Conditions/Untitled.md",
-    "Conditions/Concentration.md",
-    "Conditions/Charmed.md",
-    "Conditions/Blinded.md",
-    "9-Spells/Level 5/Contagion.md",
-    "9-Spells/Level 1/Charm Person.md"
+    "7-Equipment/Weapons/Firecage Arrow.md",
+    "7-Equipment/Weapons/Elemental Ammunition.md",
+    "7-Equipment/Weapons/Estoc.md",
+    "6-Feats/Feats.md",
+    "3-Classes/4-Sorcerer/Sorcerer.md",
+    "Trash/5-Wisdom.md",
+    "Trash/1-Strength.md",
+    "1-Core Rules/Ability Scores/4-Charisma.md",
+    "1-Core Rules/Ability Scores/3-Intelligence.md"
   ]
 }

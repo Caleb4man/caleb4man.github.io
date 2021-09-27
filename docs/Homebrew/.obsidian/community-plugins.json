@@ -2,11 +2,11 @@
   "obsidian-5e-statblocks",
   "dataview",
   "tag-wrangler",
-  "table-editor-obsidian",
   "buttons",
   "templater-obsidian",
   "better-word-count",
   "obsidian-dangling-links",
   "obsidian-tracker",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-vault-statistics-plugin",
+  "table-editor-obsidian"
 ]

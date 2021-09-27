@@ -11,4 +11,4 @@ ___
 ___
 You brandish the net used in the spell’s casting and make an attack with it against a creature within 15 feet. On a hit, the target suffers the attack’s normal effects, and every time it makes an ability check or an attack roll to free itself from the net, it takes 1d8 lightning damage.
  
-**At Higher Levels.** At 5th level, the lightning damage increases to 2d8. That damage roll increases again by 1d8 at 11th level (3d8) and 17th level (4d8).
+**At Higher Levels.** At 6th level, the lightning damage increases to 2d8. That damage roll increases again by 1d8 at 12th level (3d8) and 20th level (4d8).

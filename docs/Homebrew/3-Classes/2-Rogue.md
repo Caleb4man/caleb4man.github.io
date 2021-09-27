@@ -98,7 +98,11 @@ At 11th level, choose two skills for which you are proficient. Whenever you make
 At 14th level, you can choose a [[Fighting Style]] from the following list: [[Dueling]], [[Archery]], [[Two-Weapon Fighting]], [[Blind Fighting]], [[Thrown Weapon Fighting]], [[]]
 
 ### Slippery
-By 15th level, you have acquired greater strength over your senses. You gain proficiency in [[Consititution]] saving throws, [[Intelligence]] saving throws, or you can add twice your proficiency bonus to [[Dexterity]] saving throws.
+By 15th level, you have acquired greater strength over your senses. 
+Choose one of the following benefits.
+- You gain proficiency in [[Consititution]] saving throws
+- You gain proficiency in [[4-Charisma|Charisma]] saving throws
+- You can add twice your proficiency bonus to [[Dexterity]] saving throws.
 
 ### Elusive
 Beginning at 18th level, choose one of the following features. 

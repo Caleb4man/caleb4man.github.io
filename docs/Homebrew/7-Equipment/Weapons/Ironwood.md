@@ -1,0 +1,1 @@
+***Ironwood.*** A substance grown and tempered by warrior-druids for weapons and armor, this fireproof wood is as dense and resilient as steel. Ironwood items are considered wood, rather than metal, for the purposes of spells and other effects that target those materials, and can't be set on fire by effects that ignites objects that aren't being worn or carried.

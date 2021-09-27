@@ -5,31 +5,31 @@ Aliases: Fighter
 
 ##### The Fighter
 | Level | Proficiency Bonus | Features                                 | [[Maneuvers]] Known | Superiority Dice | [[Exploits]] Known | [[Blitzes]] Known |
-|:-----:|:-----------------:|:---------------------------------------- |:---------------:|:----------------:|:--------------:|:-------------:|
-|  1st  |        +2         | [[Maneuvers]]                                |        2        |        —         |       —        |       —       |
-|  2nd  |        +2         | [[Exploits]], Jack of All Trades             |        2        |        1         |       2        |       —       |
-|  3rd  |        +2         | Subclass Feature                         |        2        |        2         |       2        |       —       |
-|  4th  |        +2         | Ability Score Improvement                |        2        |        2         |       2        |       —       |
-|  5th  |        +3         | Feat                                     |        2        |        2         |       2        |       -       |
-|  6th  |        +3         | Extra Attack                             |        2        |        3         |       3        |       —       |
-|  7th  |        +3         | Superiority (d8)                         |        3        |        3         |       3        |       —       |
-|  8th  |        +3         | Subclass Feature                         |        3        |        4         |       4        |       —       |
-|  9th  |        +3         | Ability Score Improvement                |        3        |        4         |       4        |       —       |
-| 10th  |        +4         | Feat                                     |        3        |        4         |       4        |       -       |
-| 11th  |        +4         | Indomitable                              |        3        |        5         |       5        |       —       |
-| 12th  |        +4         | Extra Attack (2), Superiority (d10)      |        4        |        5         |       5        |       —       |
-| 13th  |        +4         | Blitz                                    |        4        |        6         |       5        |       1       |
-| 14th  |        +4         | Ability Score Improvement                |        4        |        6         |       6        |       1       |
-| 15th  |        +5         | Action Surge (1)                         |        4        |        7         |       6        |       2       |
-| 16th  |        +5         | Indomitable (2)                          |        5        |        7         |       6        |       2       |
-| 17th  |        +5         | Superiority Dice (d12), Subclass Feature |        5        |        8         |       7        |       3       |
-| 18th  |        +5         | Ability Score Improvement                |        5        |        8         |       7        |       3       |
-| 19th  |        +6         | Feat                                     |        5        |        8         |       7        |       3       |
-| 19th  |        +6         | Blitz Recovery                           |        6        |        9         |       7        |       3       |
-| 20th  |        +6         | Action Surge (2)                         |        6        |        9         |       8        |       3       |
-| 19th  |        +6         | Ability Score Improvement                |        6        |        10        |       8        |       3       |
-| 24th  |        +6         | Feat                                     |        6        |        10        |       8        |       3       |
-| 25th  |        +6         | Extra Attack (3)                         |        6        |        10        |       8        |       3       |
+|:-----:|:-----------------:|:---------------------------------------- |:-------------------:|:----------------:|:------------------:|:-----------------:|
+|  1st  |        +2         | [[Maneuvers]]                            |          2          |        —         |         —          |         —         |
+|  2nd  |        +2         | [[Exploits]], Jack of All Trades         |          2          |        1         |         2          |         —         |
+|  3rd  |        +2         | Subclass Feature                         |          2          |        2         |         2          |         —         |
+|  4th  |        +2         | Ability Score Improvement                |          2          |        2         |         2          |         —         |
+|  5th  |        +3         | Feat                                     |          2          |        2         |         2          |         -         |
+|  6th  |        +3         | Extra Attack                             |          2          |        3         |         3          |         —         |
+|  7th  |        +3         | Superiority (d8)                         |          3          |        3         |         3          |         —         |
+|  8th  |        +3         | Subclass Feature                         |          3          |        4         |         4          |         —         |
+|  9th  |        +3         | Ability Score Improvement                |          3          |        4         |         4          |         —         |
+| 10th  |        +4         | Feat                                     |          3          |        4         |         4          |         -         |
+| 11th  |        +4         | Indomitable                              |          3          |        5         |         5          |         —         |
+| 12th  |        +4         | Extra Attack (2), Superiority (d10)      |          4          |        5         |         5          |         —         |
+| 13th  |        +4         | Blitz                                    |          4          |        6         |         5          |         1         |
+| 14th  |        +4         | Ability Score Improvement                |          4          |        6         |         6          |         1         |
+| 15th  |        +5         | Action Surge (1)                         |          4          |        7         |         6          |         2         |
+| 16th  |        +5         | Indomitable (2)                          |          5          |        7         |         6          |         2         |
+| 17th  |        +5         | Superiority Dice (d12), Subclass Feature |          5          |        8         |         7          |         3         |
+| 18th  |        +5         | Ability Score Improvement                |          5          |        8         |         7          |         3         |
+| 19th  |        +6         | Feat                                     |          5          |        8         |         7          |         3         |
+| 19th  |        +6         | Blitz Recovery                           |          6          |        9         |         7          |         3         |
+| 20th  |        +6         | Action Surge (2)                         |          6          |        9         |         8          |         3         |
+| 19th  |        +6         | Ability Score Improvement                |          6          |        10        |         8          |         3         |
+| 24th  |        +6         | Feat                                     |          6          |        10        |         8          |         3         |
+| 25th  |        +6         | Extra Attack (3)                         |          6          |        10        |         8          |         3         |
 
 ## Class Features
 As a fighter, you gain the following class features.
