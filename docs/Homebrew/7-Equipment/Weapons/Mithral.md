@@ -1,0 +1,2 @@
+***Mithral.*** A light, flexible material, mithral armor removes Strength requirements and disadvantage on Stealth checks inflicted by wearing certain armor.
+Weapons made from mithral are similarly light, weighing half as much as their iron counterparts. Mithral weapons with the *Heavy* property can be used to make extra attacks regardless of the user's strength and can be wielded normally by small creatures.

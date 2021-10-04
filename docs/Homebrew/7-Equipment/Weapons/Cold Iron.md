@@ -1,0 +1,2 @@
+***Cold Iron.*** They may rust and deform more quickly than steel, but iron weapons hold a key advantage besides their low cost and ubiquity: they are anathema to fey. Iron weapons ignore fey creatures' resistances and immunities to nonmagical weapons and damage, and when a fey creature starts its turn in contact with an item made of iron, it takes 1 fire damage. All iron is considered cold iron, and iron is one of the most common materials used to make weapons. Fey are not pleased by this development.
+> ![[Lore: Fey and Iron]]

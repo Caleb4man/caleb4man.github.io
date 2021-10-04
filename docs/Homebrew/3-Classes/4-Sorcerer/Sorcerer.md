@@ -52,7 +52,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a [[light crossbow]] and 20 bolts or (b) a [[sling]]
 - (a) a [[quarterstaff]] or (b) any [[simple weapon]]
 - (a) a [[dungeoneer’s pack]] or (b) an [[explorer’s pack]]
-- Two [[dagger]]s
+- Two [[Weapons^dagger]]s
 
 ### Sorcerous Origin
 At 1st level, you choose the source of your arcane power from the following options: Wild Magic or Dragonblood, each of which is detailed at the end of this class.

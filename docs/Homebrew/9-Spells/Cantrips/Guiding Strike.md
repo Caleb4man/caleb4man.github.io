@@ -13,6 +13,6 @@ As part of the action used to cast this spell, you must make a melee weapon atta
 
 If the target of your attack is hit by another weapon attack during the spells duration, the target takes 1d4 radiant damage and the spell ends. 
 
-This spell’s damage increases when you reach higher levels. At 5th level, the melee attack and the additional damage for being hit by another attack deals an extra 1d4 radiant damage to the target. Both damage rolls increase by 1d4 at 11th level and 17th level.
+This spell’s damage increases when you reach higher levels. At 6th level, the melee attack and the additional damage for being hit by another attack deals an extra 1d4 radiant damage to the target. Both damage rolls increase by 1d4 at 12th level and 20th level.
 
 Classes: [[Cleric]]
