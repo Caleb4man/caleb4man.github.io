@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9adcb1f830d177a4",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "7a73652e5b476483"
-      },
-      {
         "id": "fb7d8f0efe6e153c",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        },
-        "group": "7a73652e5b476483"
+        }
       }
     ],
     "direction": "vertical"
