@@ -1,0 +1,1 @@
+Conte Numara once was a frightening vampiric master of the realm of Barrio Sesamo. However, he has taken to a reclusive lifestyle recently, only interacting with the party and through others.

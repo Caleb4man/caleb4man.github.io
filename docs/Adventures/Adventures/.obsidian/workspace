@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "42297133a820421c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6630241c2d3c2ab9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tucker's Kobolds.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beaedba47d40e0c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7217791c1af31c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df00dc0080504a71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc0e1dd36f3b5852",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ba49eaf38b22e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2048a08db96991b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac327cf5e2a3ab5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tucker's Kobolds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6630241c2d3c2ab9",
+  "lastOpenFiles": [
+    "Tucker's Kobolds.md",
+    "Adventure Order.md",
+    "Conte Numara.md",
+    "Untitled.md",
+    "Characters/Pasare Mare.md",
+    "Conde Draco.md"
+  ]
+}

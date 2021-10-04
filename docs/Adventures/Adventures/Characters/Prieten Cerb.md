@@ -1,0 +1,1 @@
+A small sedentary hobo, he responds poorly to every interaction that the party has. 
