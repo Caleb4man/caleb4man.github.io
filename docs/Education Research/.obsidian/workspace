@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bias Waterfall.md",
+            "file": "Formula.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f409649dbff6718",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bias Waterfall.md",
+                "file": "Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,12 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 301,
     "collapsed": true
   },
   "active": "a3e6b588754a059e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Questions.md"
+    "Formula.md",
+    "Rhetorical Thoroughness.md",
+    "Presumption of Guilt.md",
+    "Syntax based study.md",
+    "Topics/Prohibitive Communication Burden.md",
+    "Topics/Radical Classroom Anarchy.md",
+    "Topics/Loaded Terms.md",
+    "Topics/Initial Idea.md",
+    "Questions.md",
+    "Bias Waterfall.md"
   ]
 }
