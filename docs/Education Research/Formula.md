@@ -1,21 +1,29 @@
+# Definitions
+## S
 S is the total number of statements included in a work
 
+## C
 C is the number of citations in the work
 
+## Sy
 Sy is the number of complete syllogisms in the work
 
+## E
 E is the total number of enthymemes in the work
 
+## B
 B is the total number of baseless statements in the work.
 
+# Formula / Proof
 
 S=(Sy*3)+(E*2)+B
 
 S = Adjectives + Adverbs + Verbs other than "to be" (or periods + Semicolons + Conjunctions?)
+Adjective-Noun combinations that are used more than once can be consolidated as a noun phrase to narrow down some additional statements.
 
 However, in the first situation, the Syllogisms and Enthymemes may share premises. Mathematically, it is difficult to automatically determine this number of overlapping premises. However, this can be remedied by hand or by ignoring the problem and hoping it goes away.
 
-S Needn't be as small as possible, or as accurate as possible. It simply needs to be as usable as possible.
+S, like a mean, needn't be as small as possible, or as accurate as possible. It simply needs to be as usable as possible.
 
 With S, we can turn our attention on the rest of quantitative rhetoric. The rhetor may turn to the other sections of the work and find the following types of statements: 
 - Premises copied from other works. 

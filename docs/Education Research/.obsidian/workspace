@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f409649dbff6718",
@@ -79,6 +78,18 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c49269b89a1b6ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -90,14 +101,14 @@
   "active": "a3e6b588754a059e",
   "lastOpenFiles": [
     "Formula.md",
-    "Rhetorical Thoroughness.md",
+    "Introduction.md",
     "Presumption of Guilt.md",
-    "Syntax based study.md",
-    "Topics/Prohibitive Communication Burden.md",
-    "Topics/Radical Classroom Anarchy.md",
-    "Topics/Loaded Terms.md",
-    "Topics/Initial Idea.md",
-    "Questions.md",
-    "Bias Waterfall.md"
+    "Deprecated/Bias Waterfall 1.md",
+    "Deprecated/Syntax based study.md",
+    "Deprecated/Rhetorical Thoroughness.md",
+    "Deprecated/Reasoning for Formula.md",
+    "Deprecated/Presumption of Guilt.md",
+    "Deprecated/Topics/Prohibitive Communication Burden.md",
+    "Deprecated/Topics/Radical Classroom Anarchy.md"
   ]
 }
