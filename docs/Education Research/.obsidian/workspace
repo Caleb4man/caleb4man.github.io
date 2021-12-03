@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formula.md",
+            "file": "Justification.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formula.md",
+                "file": "Justification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formula.md",
+                "file": "Justification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,6 +100,8 @@
   },
   "active": "a3e6b588754a059e",
   "lastOpenFiles": [
+    "Justification.md",
+    "Total Claims.md",
     "Formula.md",
     "Introduction.md",
     "Presumption of Guilt.md",
@@ -107,8 +109,6 @@
     "Deprecated/Syntax based study.md",
     "Deprecated/Rhetorical Thoroughness.md",
     "Deprecated/Reasoning for Formula.md",
-    "Deprecated/Presumption of Guilt.md",
-    "Deprecated/Topics/Prohibitive Communication Burden.md",
-    "Deprecated/Topics/Radical Classroom Anarchy.md"
+    "Deprecated/Presumption of Guilt.md"
   ]
 }
